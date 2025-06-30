@@ -1,0 +1,1751 @@
+ID,Age,Gender,Text_Input,Label
+1001,82,Male,Patient is unconscious and not breathing.,1
+1002,36,Male,Seizures and no pulse detected.,1
+1003,18,Other,Severe chest pain with loss of consciousness.,1
+1004,87,Other,"Drowning victim pulled out, not breathing.",1
+1005,12,Other,"Cardiac arrest in progress, CPR initiated.",1
+1006,5,Male,Severe chest pain with loss of consciousness.,1
+1007,28,Male,"Drowning victim pulled out, not breathing.",1
+1008,78,Male,"Drowning victim pulled out, not breathing.",1
+1009,26,Other,"Drowning victim pulled out, not breathing.",1
+1010,54,Male,Gunshot wound to chest with severe blood loss.,1
+1011,76,Female,Patient is unconscious and not breathing.,1
+1012,21,Other,"Cardiac arrest in progress, CPR initiated.",1
+1013,44,Female,Unresponsive after road traffic accident with head injury.,1
+1014,28,Female,Severe chest pain with loss of consciousness.,1
+1015,12,Female,Severe chest pain with loss of consciousness.,1
+1016,46,Female,"Severe electric shock, patient unresponsive.",1
+1017,34,Male,Gunshot wound to chest with severe blood loss.,1
+1018,69,Male,"Cardiac arrest in progress, CPR initiated.",1
+1019,11,Other,"Massive bleeding after accident, patient is fading.",1
+1020,81,Other,Accident leading to internal bleeding and multiple fractures,1
+1021,74,Male,Severe chest pain with loss of consciousness.,1
+1022,6,Other,Seizures and no pulse detected.,1
+1023,38,Male,Seizures and no pulse detected.,1
+1024,13,Female,"Massive bleeding after accident, patient is fading.",1
+1025,59,Other,Accident leading to internal bleeding and multiple fractures,1
+1026,21,Female,Accident leading to internal bleeding and multiple fractures,1
+1027,27,Other,"Massive bleeding after accident, patient is fading.",1
+1028,90,Other,Severe chest pain with loss of consciousness.,1
+1029,78,Other,Unresponsive after road traffic accident with head injury.,1
+1030,69,Other,Seizures and no pulse detected.,1
+1031,21,Female,"Cardiac arrest in progress, CPR initiated.",1
+1032,35,Other,"Drowning victim pulled out, not breathing.",1
+1033,29,Other,Accident leading to internal bleeding and multiple fractures,1
+1034,8,Male,Patient is unconscious and not breathing.,1
+1035,41,Female,"Massive bleeding after accident, patient is fading.",1
+1036,9,Male,"Severe electric shock, patient unresponsive.",1
+1037,41,Male,Gunshot wound to chest with severe blood loss.,1
+1038,51,Other,Gunshot wound to chest with severe blood loss.,1
+1039,19,Female,Unresponsive after road traffic accident with head injury.,1
+1040,32,Other,"Drowning victim pulled out, not breathing.",1
+1041,69,Female,"Severe electric shock, patient unresponsive.",1
+1042,55,Other,"Cardiac arrest in progress, CPR initiated.",1
+1043,47,Male,Unresponsive after road traffic accident with head injury.,1
+1044,66,Female,Severe chest pain with loss of consciousness.,1
+1045,7,Male,Unresponsive after road traffic accident with head injury.,1
+1046,81,Male,"Cardiac arrest in progress, CPR initiated.",1
+1047,77,Male,"Cardiac arrest in progress, CPR initiated.",1
+1048,49,Other,Gunshot wound to chest with severe blood loss.,1
+1049,68,Female,"Drowning victim pulled out, not breathing.",1
+1050,2,Other,Severe chest pain with loss of consciousness.,1
+1051,88,Other,"Massive bleeding after accident, patient is fading.",1
+1052,83,Female,Severe chest pain with loss of consciousness.,1
+1053,38,Female,Unresponsive after road traffic accident with head injury.,1
+1054,59,Male,"Massive bleeding after accident, patient is fading.",1
+1055,65,Male,"Drowning victim pulled out, not breathing.",1
+1056,14,Other,"Massive bleeding after accident, patient is fading.",1
+1057,82,Other,"Severe electric shock, patient unresponsive.",1
+1058,26,Male,Accident leading to internal bleeding and multiple fractures,1
+1059,21,Other,"Drowning victim pulled out, not breathing.",1
+1060,1,Other,Accident leading to internal bleeding and multiple fractures,1
+1061,63,Male,Severe chest pain with loss of consciousness.,1
+1062,47,Female,Seizures and no pulse detected.,1
+1063,8,Male,"Severe electric shock, patient unresponsive.",1
+1064,11,Male,Gunshot wound to chest with severe blood loss.,1
+1065,9,Other,Unresponsive after road traffic accident with head injury.,1
+1066,17,Other,Gunshot wound to chest with severe blood loss.,1
+1067,71,Male,"Massive bleeding after accident, patient is fading.",1
+1068,68,Other,"Cardiac arrest in progress, CPR initiated.",1
+1069,28,Other,Seizures and no pulse detected.,1
+1070,40,Female,Accident leading to internal bleeding and multiple fractures,1
+1071,57,Other,Gunshot wound to chest with severe blood loss.,1
+1072,16,Male,Seizures and no pulse detected.,1
+1073,9,Female,Patient is unconscious and not breathing.,1
+1074,76,Other,Seizures and no pulse detected.,1
+1075,76,Male,Patient is unconscious and not breathing.,1
+1076,10,Other,Patient is unconscious and not breathing.,1
+1077,30,Male,Patient is unconscious and not breathing.,1
+1078,43,Male,"Drowning victim pulled out, not breathing.",1
+1079,31,Female,Gunshot wound to chest with severe blood loss.,1
+1080,28,Other,Unresponsive after road traffic accident with head injury.,1
+1081,74,Other,Gunshot wound to chest with severe blood loss.,1
+1082,32,Female,"Cardiac arrest in progress, CPR initiated.",1
+1083,25,Male,Severe chest pain with loss of consciousness.,1
+1084,85,Female,Accident leading to internal bleeding and multiple fractures,1
+1085,55,Female,Gunshot wound to chest with severe blood loss.,1
+1086,7,Other,Severe chest pain with loss of consciousness.,1
+1087,8,Female,Accident leading to internal bleeding and multiple fractures,1
+1088,14,Male,Seizures and no pulse detected.,1
+1089,25,Other,Gunshot wound to chest with severe blood loss.,1
+1090,18,Female,Unresponsive after road traffic accident with head injury.,1
+1091,36,Female,Seizures and no pulse detected.,1
+1092,10,Female,"Drowning victim pulled out, not breathing.",1
+1093,13,Male,"Drowning victim pulled out, not breathing.",1
+1094,2,Male,Seizures and no pulse detected.,1
+1095,22,Female,Gunshot wound to chest with severe blood loss.,1
+1096,62,Male,"Cardiac arrest in progress, CPR initiated.",1
+1097,8,Male,"Cardiac arrest in progress, CPR initiated.",1
+1098,1,Female,"Massive bleeding after accident, patient is fading.",1
+1099,59,Female,"Cardiac arrest in progress, CPR initiated.",1
+1100,90,Other,"Drowning victim pulled out, not breathing.",1
+1101,85,Other,Gunshot wound to chest with severe blood loss.,1
+1102,20,Male,"Massive bleeding after accident, patient is fading.",1
+1103,28,Male,"Severe electric shock, patient unresponsive.",1
+1104,70,Male,Accident leading to internal bleeding and multiple fractures,1
+1105,8,Male,"Severe electric shock, patient unresponsive.",1
+1106,62,Other,"Drowning victim pulled out, not breathing.",1
+1107,21,Male,"Drowning victim pulled out, not breathing.",1
+1108,11,Male,Severe chest pain with loss of consciousness.,1
+1109,77,Male,Seizures and no pulse detected.,1
+1110,52,Male,"Severe electric shock, patient unresponsive.",1
+1111,32,Other,"Severe electric shock, patient unresponsive.",1
+1112,6,Other,Severe chest pain with loss of consciousness.,1
+1113,54,Other,"Severe electric shock, patient unresponsive.",1
+1114,73,Other,Accident leading to internal bleeding and multiple fractures,1
+1115,34,Male,Accident leading to internal bleeding and multiple fractures,1
+1116,31,Female,"Cardiac arrest in progress, CPR initiated.",1
+1117,17,Other,"Massive bleeding after accident, patient is fading.",1
+1118,59,Female,Severe chest pain with loss of consciousness.,1
+1119,2,Female,"Severe electric shock, patient unresponsive.",1
+1120,73,Male,Severe chest pain with loss of consciousness.,1
+1121,69,Male,"Drowning victim pulled out, not breathing.",1
+1122,34,Male,Accident leading to internal bleeding and multiple fractures,1
+1123,9,Male,Accident leading to internal bleeding and multiple fractures,1
+1124,37,Male,Gunshot wound to chest with severe blood loss.,1
+1125,70,Other,"Massive bleeding after accident, patient is fading.",1
+1126,79,Other,"Drowning victim pulled out, not breathing.",1
+1127,2,Other,"Drowning victim pulled out, not breathing.",1
+1128,39,Other,Severe chest pain with loss of consciousness.,1
+1129,18,Female,Severe chest pain with loss of consciousness.,1
+1130,14,Other,"Drowning victim pulled out, not breathing.",1
+1131,20,Female,"Massive bleeding after accident, patient is fading.",1
+1132,78,Male,Accident leading to internal bleeding and multiple fractures,1
+1133,27,Other,"Massive bleeding after accident, patient is fading.",1
+1134,65,Female,"Massive bleeding after accident, patient is fading.",1
+1135,7,Male,"Cardiac arrest in progress, CPR initiated.",1
+1136,36,Male,Patient is unconscious and not breathing.,1
+1137,43,Male,"Massive bleeding after accident, patient is fading.",1
+1138,21,Other,Gunshot wound to chest with severe blood loss.,1
+1139,71,Other,"Cardiac arrest in progress, CPR initiated.",1
+1140,72,Male,Severe chest pain with loss of consciousness.,1
+1141,10,Other,Unresponsive after road traffic accident with head injury.,1
+1142,70,Male,Accident leading to internal bleeding and multiple fractures,1
+1143,75,Other,Unresponsive after road traffic accident with head injury.,1
+1144,56,Male,Patient is unconscious and not breathing.,1
+1145,40,Female,Patient is unconscious and not breathing.,1
+1146,46,Male,Seizures and no pulse detected.,1
+1147,86,Male,Accident leading to internal bleeding and multiple fractures,1
+1148,72,Female,"Severe electric shock, patient unresponsive.",1
+1149,20,Male,Unresponsive after road traffic accident with head injury.,1
+1150,23,Female,Patient is unconscious and not breathing.,1
+1151,23,Other,Accident leading to internal bleeding and multiple fractures,1
+1152,53,Other,Seizures and no pulse detected.,1
+1153,35,Male,Severe chest pain with loss of consciousness.,1
+1154,49,Male,Gunshot wound to chest with severe blood loss.,1
+1155,29,Male,Gunshot wound to chest with severe blood loss.,1
+1156,45,Female,Seizures and no pulse detected.,1
+1157,29,Male,Seizures and no pulse detected.,1
+1158,52,Female,"Massive bleeding after accident, patient is fading.",1
+1159,9,Female,Accident leading to internal bleeding and multiple fractures,1
+1160,83,Other,"Cardiac arrest in progress, CPR initiated.",1
+1161,87,Other,Accident leading to internal bleeding and multiple fractures,1
+1162,4,Male,"Massive bleeding after accident, patient is fading.",1
+1163,23,Other,"Massive bleeding after accident, patient is fading.",1
+1164,5,Male,"Severe electric shock, patient unresponsive.",1
+1165,56,Female,Accident leading to internal bleeding and multiple fractures,1
+1166,56,Other,"Drowning victim pulled out, not breathing.",1
+1167,15,Female,"Severe electric shock, patient unresponsive.",1
+1168,25,Female,Patient is unconscious and not breathing.,1
+1169,56,Male,"Drowning victim pulled out, not breathing.",1
+1170,69,Other,Seizures and no pulse detected.,1
+1171,47,Female,Severe chest pain with loss of consciousness.,1
+1172,86,Female,"Severe electric shock, patient unresponsive.",1
+1173,41,Other,Severe chest pain with loss of consciousness.,1
+1174,39,Other,"Massive bleeding after accident, patient is fading.",1
+1175,86,Female,Accident leading to internal bleeding and multiple fractures,1
+1176,52,Other,"Massive bleeding after accident, patient is fading.",1
+1177,71,Male,Seizures and no pulse detected.,1
+1178,54,Other,"Cardiac arrest in progress, CPR initiated.",1
+1179,87,Other,Unresponsive after road traffic accident with head injury.,1
+1180,79,Other,"Massive bleeding after accident, patient is fading.",1
+1181,52,Other,Patient is unconscious and not breathing.,1
+1182,39,Female,Seizures and no pulse detected.,1
+1183,56,Other,"Severe electric shock, patient unresponsive.",1
+1184,84,Female,Gunshot wound to chest with severe blood loss.,1
+1185,57,Female,Seizures and no pulse detected.,1
+1186,66,Female,Unresponsive after road traffic accident with head injury.,1
+1187,85,Male,"Massive bleeding after accident, patient is fading.",1
+1188,66,Other,"Severe electric shock, patient unresponsive.",1
+1189,43,Male,Seizures and no pulse detected.,1
+1190,87,Female,Seizures and no pulse detected.,1
+1191,26,Male,Patient is unconscious and not breathing.,1
+1192,6,Male,Gunshot wound to chest with severe blood loss.,1
+1193,79,Male,Gunshot wound to chest with severe blood loss.,1
+1194,54,Other,"Severe electric shock, patient unresponsive.",1
+1195,25,Other,"Cardiac arrest in progress, CPR initiated.",1
+1196,64,Female,Seizures and no pulse detected.,1
+1197,19,Other,Patient is unconscious and not breathing.,1
+1198,14,Female,Seizures and no pulse detected.,1
+1199,23,Other,"Drowning victim pulled out, not breathing.",1
+1200,60,Male,"Drowning victim pulled out, not breathing.",1
+1201,32,Male,Gunshot wound to chest with severe blood loss.,1
+1202,18,Female,"Drowning victim pulled out, not breathing.",1
+1203,72,Other,Accident leading to internal bleeding and multiple fractures,1
+1204,57,Other,"Drowning victim pulled out, not breathing.",1
+1205,55,Other,Gunshot wound to chest with severe blood loss.,1
+1206,21,Other,Gunshot wound to chest with severe blood loss.,1
+1207,58,Female,Seizures and no pulse detected.,1
+1208,82,Female,"Drowning victim pulled out, not breathing.",1
+1209,63,Other,Seizures and no pulse detected.,1
+1210,36,Female,Severe chest pain with loss of consciousness.,1
+1211,37,Male,"Massive bleeding after accident, patient is fading.",1
+1212,43,Female,"Drowning victim pulled out, not breathing.",1
+1213,11,Male,Unresponsive after road traffic accident with head injury.,1
+1214,30,Female,Unresponsive after road traffic accident with head injury.,1
+1215,28,Male,"Cardiac arrest in progress, CPR initiated.",1
+1216,53,Female,"Drowning victim pulled out, not breathing.",1
+1217,60,Female,Patient is unconscious and not breathing.,1
+1218,27,Female,"Cardiac arrest in progress, CPR initiated.",1
+1219,75,Other,Patient is unconscious and not breathing.,1
+1220,74,Female,Gunshot wound to chest with severe blood loss.,1
+1221,1,Female,"Massive bleeding after accident, patient is fading.",1
+1222,50,Female,"Drowning victim pulled out, not breathing.",1
+1223,70,Other,Seizures and no pulse detected.,1
+1224,63,Male,"Massive bleeding after accident, patient is fading.",1
+1225,56,Female,Patient is unconscious and not breathing.,1
+1226,50,Female,"Cardiac arrest in progress, CPR initiated.",1
+1227,22,Female,Unresponsive after road traffic accident with head injury.,1
+1228,80,Other,Patient is unconscious and not breathing.,1
+1229,51,Other,"Severe electric shock, patient unresponsive.",1
+1230,85,Male,Severe chest pain with loss of consciousness.,1
+1231,83,Female,Unresponsive after road traffic accident with head injury.,1
+1232,60,Male,Patient is unconscious and not breathing.,1
+1233,34,Female,Accident leading to internal bleeding and multiple fractures,1
+1234,28,Female,Accident leading to internal bleeding and multiple fractures,1
+1235,44,Female,"Massive bleeding after accident, patient is fading.",1
+1236,54,Female,Severe chest pain with loss of consciousness.,1
+1237,61,Male,"Drowning victim pulled out, not breathing.",1
+1238,7,Female,Seizures and no pulse detected.,1
+1239,84,Male,Patient is unconscious and not breathing.,1
+1240,4,Male,Seizures and no pulse detected.,1
+1241,3,Other,Unresponsive after road traffic accident with head injury.,1
+1242,31,Male,Gunshot wound to chest with severe blood loss.,1
+1243,86,Male,"Severe electric shock, patient unresponsive.",1
+1244,28,Female,"Massive bleeding after accident, patient is fading.",1
+1245,48,Male,"Severe electric shock, patient unresponsive.",1
+1246,78,Other,Severe chest pain with loss of consciousness.,1
+1247,21,Female,Severe chest pain with loss of consciousness.,1
+1248,75,Male,"Massive bleeding after accident, patient is fading.",1
+1249,74,Other,"Cardiac arrest in progress, CPR initiated.",1
+1250,51,Other,Seizures and no pulse detected.,1
+1251,10,Other,Seizures and no pulse detected.,1
+1252,14,Other,"Massive bleeding after accident, patient is fading.",1
+1253,88,Other,Severe chest pain with loss of consciousness.,1
+1254,73,Male,Accident leading to internal bleeding and multiple fractures,1
+1255,69,Female,Accident leading to internal bleeding and multiple fractures,1
+1256,9,Other,Accident leading to internal bleeding and multiple fractures,1
+1257,2,Female,Gunshot wound to chest with severe blood loss.,1
+1258,14,Female,Accident leading to internal bleeding and multiple fractures,1
+1259,82,Female,Unresponsive after road traffic accident with head injury.,1
+1260,56,Male,"Drowning victim pulled out, not breathing.",1
+1261,84,Female,"Severe electric shock, patient unresponsive.",1
+1262,69,Female,Gunshot wound to chest with severe blood loss.,1
+1263,56,Other,"Severe electric shock, patient unresponsive.",1
+1264,35,Female,Seizures and no pulse detected.,1
+1265,12,Female,Gunshot wound to chest with severe blood loss.,1
+1266,32,Female,"Severe electric shock, patient unresponsive.",1
+1267,79,Other,"Cardiac arrest in progress, CPR initiated.",1
+1268,44,Male,Gunshot wound to chest with severe blood loss.,1
+1269,42,Male,Gunshot wound to chest with severe blood loss.,1
+1270,28,Female,"Massive bleeding after accident, patient is fading.",1
+1271,44,Female,"Severe electric shock, patient unresponsive.",1
+1272,90,Female,"Drowning victim pulled out, not breathing.",1
+1273,2,Other,Seizures and no pulse detected.,1
+1274,11,Male,"Cardiac arrest in progress, CPR initiated.",1
+1275,63,Other,Seizures and no pulse detected.,1
+1276,89,Female,Gunshot wound to chest with severe blood loss.,1
+1277,58,Male,Severe chest pain with loss of consciousness.,1
+1278,38,Male,"Cardiac arrest in progress, CPR initiated.",1
+1279,89,Male,"Massive bleeding after accident, patient is fading.",1
+1280,85,Other,Accident leading to internal bleeding and multiple fractures,1
+1281,61,Other,"Drowning victim pulled out, not breathing.",1
+1282,45,Female,"Drowning victim pulled out, not breathing.",1
+1283,43,Female,Gunshot wound to chest with severe blood loss.,1
+1284,35,Female,"Massive bleeding after accident, patient is fading.",1
+1285,30,Male,Seizures and no pulse detected.,1
+1286,41,Male,"Drowning victim pulled out, not breathing.",1
+1287,89,Male,Seizures and no pulse detected.,1
+1288,28,Other,Gunshot wound to chest with severe blood loss.,1
+1289,36,Other,"Severe electric shock, patient unresponsive.",1
+1290,68,Other,"Massive bleeding after accident, patient is fading.",1
+1291,13,Male,"Massive bleeding after accident, patient is fading.",1
+1292,30,Female,Unresponsive after road traffic accident with head injury.,1
+1293,39,Male,"Drowning victim pulled out, not breathing.",1
+1294,17,Female,Patient is unconscious and not breathing.,1
+1295,7,Other,"Massive bleeding after accident, patient is fading.",1
+1296,90,Male,Gunshot wound to chest with severe blood loss.,1
+1297,14,Male,"Severe electric shock, patient unresponsive.",1
+1298,37,Female,Gunshot wound to chest with severe blood loss.,1
+1299,57,Female,Unresponsive after road traffic accident with head injury.,1
+1300,7,Female,Gunshot wound to chest with severe blood loss.,1
+1301,15,Male,"Cardiac arrest in progress, CPR initiated.",1
+1302,63,Male,"Severe electric shock, patient unresponsive.",1
+1303,81,Other,Patient is unconscious and not breathing.,1
+1304,20,Male,"Severe electric shock, patient unresponsive.",1
+1305,39,Male,Seizures and no pulse detected.,1
+1306,16,Other,"Cardiac arrest in progress, CPR initiated.",1
+1307,78,Other,"Severe electric shock, patient unresponsive.",1
+1308,29,Other,"Cardiac arrest in progress, CPR initiated.",1
+1309,58,Female,"Massive bleeding after accident, patient is fading.",1
+1310,76,Female,"Massive bleeding after accident, patient is fading.",1
+1311,73,Other,Patient is unconscious and not breathing.,1
+1312,79,Other,Severe chest pain with loss of consciousness.,1
+1313,27,Other,Seizures and no pulse detected.,1
+1314,34,Other,Severe chest pain with loss of consciousness.,1
+1315,21,Male,Unresponsive after road traffic accident with head injury.,1
+1316,71,Male,Unresponsive after road traffic accident with head injury.,1
+1317,1,Female,Gunshot wound to chest with severe blood loss.,1
+1318,89,Other,Gunshot wound to chest with severe blood loss.,1
+1319,38,Male,Seizures and no pulse detected.,1
+1320,37,Other,"Massive bleeding after accident, patient is fading.",1
+1321,90,Female,Severe chest pain with loss of consciousness.,1
+1322,88,Male,"Massive bleeding after accident, patient is fading.",1
+1323,81,Other,Seizures and no pulse detected.,1
+1324,55,Male,"Drowning victim pulled out, not breathing.",1
+1325,29,Other,Unresponsive after road traffic accident with head injury.,1
+1326,35,Male,Severe chest pain with loss of consciousness.,1
+1327,8,Male,"Massive bleeding after accident, patient is fading.",1
+1328,77,Other,"Severe electric shock, patient unresponsive.",1
+1329,37,Female,Severe chest pain with loss of consciousness.,1
+1330,60,Other,"Massive bleeding after accident, patient is fading.",1
+1331,90,Female,"Massive bleeding after accident, patient is fading.",1
+1332,65,Other,Gunshot wound to chest with severe blood loss.,1
+1333,57,Male,"Severe electric shock, patient unresponsive.",1
+1334,6,Female,Accident leading to internal bleeding and multiple fractures,1
+1335,78,Female,Patient is unconscious and not breathing.,1
+1336,12,Male,"Severe electric shock, patient unresponsive.",1
+1337,76,Male,"Massive bleeding after accident, patient is fading.",1
+1338,74,Male,Unresponsive after road traffic accident with head injury.,1
+1339,61,Other,Gunshot wound to chest with severe blood loss.,1
+1340,36,Male,"Severe electric shock, patient unresponsive.",1
+1341,56,Other,Gunshot wound to chest with severe blood loss.,1
+1342,12,Female,Accident leading to internal bleeding and multiple fractures,1
+1343,53,Female,Accident leading to internal bleeding and multiple fractures,1
+1344,86,Male,Unresponsive after road traffic accident with head injury.,1
+1345,43,Female,Gunshot wound to chest with severe blood loss.,1
+1346,37,Other,"Cardiac arrest in progress, CPR initiated.",1
+1347,71,Male,Gunshot wound to chest with severe blood loss.,1
+1348,12,Female,"Massive bleeding after accident, patient is fading.",1
+1349,42,Male,"Cardiac arrest in progress, CPR initiated.",1
+1350,66,Male,"Drowning victim pulled out, not breathing.",1
+1351,60,Female,Severe chest pain with difficulty breathing.,2
+1352,25,Other,Accident with little pain in legs,2
+1353,80,Female,Severe abdominal pain with vomiting blood.,2
+1354,7,Male,Severe allergic reaction with swollen lips and throat.,2
+1355,71,Male,Severe allergic reaction with swollen lips and throat.,2
+1356,57,Other,Severe abdominal pain with vomiting blood.,2
+1357,16,Male,Major trauma but stable vitals - requires immediate care.,2
+1358,31,Other,"Severe asthma attack, patient gasping.",2
+1359,40,Other,Severe chest pain with difficulty breathing.,2
+1360,71,Female,Slurred speech and one side weakness - possible stroke.,2
+1361,29,Male,Severe abdominal pain with vomiting blood.,2
+1362,16,Other,"Severe asthma attack, patient gasping.",2
+1363,64,Other,Severe allergic reaction with swollen lips and throat.,2
+1364,66,Other,Severe allergic reaction with swollen lips and throat.,2
+1365,54,Female,Severe abdominal pain with vomiting blood.,2
+1366,32,Female,Burn injuries covering face and chest.,2
+1367,19,Female,High fever of 105°F with body shaking.,2
+1368,77,Other,"Severe asthma attack, patient gasping.",2
+1369,9,Female,Pregnant woman with heavy vaginal bleeding.,2
+1370,44,Other,Severe allergic reaction with swollen lips and throat.,2
+1371,1,Female,Severe allergic reaction with swollen lips and throat.,2
+1372,76,Other,Severe abdominal pain with vomiting blood.,2
+1373,20,Female,Burn injuries covering face and chest.,2
+1374,62,Female,Accident with little pain in legs,2
+1375,71,Other,Pregnant woman with heavy vaginal bleeding.,2
+1376,59,Female,High fever of 105°F with body shaking.,2
+1377,90,Male,Major trauma but stable vitals - requires immediate care.,2
+1378,50,Male,Pregnant woman with heavy vaginal bleeding.,2
+1379,6,Female,Severe abdominal pain with vomiting blood.,2
+1380,49,Female,"Severe asthma attack, patient gasping.",2
+1381,64,Male,"Severe asthma attack, patient gasping.",2
+1382,65,Other,Accident with little pain in legs,2
+1383,13,Female,Slurred speech and one side weakness - possible stroke.,2
+1384,68,Female,Severe chest pain with difficulty breathing.,2
+1385,19,Female,"Severe asthma attack, patient gasping.",2
+1386,10,Female,Severe allergic reaction with swollen lips and throat.,2
+1387,44,Other,Pregnant woman with heavy vaginal bleeding.,2
+1388,84,Male,Accident with little pain in legs,2
+1389,87,Other,Pregnant woman with heavy vaginal bleeding.,2
+1390,41,Other,Severe abdominal pain with vomiting blood.,2
+1391,70,Male,Major trauma but stable vitals - requires immediate care.,2
+1392,9,Male,Severe allergic reaction with swollen lips and throat.,2
+1393,30,Other,Slurred speech and one side weakness - possible stroke.,2
+1394,56,Male,Slurred speech and one side weakness - possible stroke.,2
+1395,57,Male,Severe allergic reaction with swollen lips and throat.,2
+1396,4,Male,Accident with little pain in legs,2
+1397,8,Female,Accident with little pain in legs,2
+1398,48,Female,"Severe asthma attack, patient gasping.",2
+1399,32,Other,Pregnant woman with heavy vaginal bleeding.,2
+1400,73,Other,"Severe asthma attack, patient gasping.",2
+1401,22,Male,Slurred speech and one side weakness - possible stroke.,2
+1402,79,Female,Major trauma but stable vitals - requires immediate care.,2
+1403,88,Male,Severe abdominal pain with vomiting blood.,2
+1404,75,Male,High fever of 105°F with body shaking.,2
+1405,60,Other,Severe allergic reaction with swollen lips and throat.,2
+1406,59,Female,Severe chest pain with difficulty breathing.,2
+1407,60,Female,Burn injuries covering face and chest.,2
+1408,21,Male,Severe abdominal pain with vomiting blood.,2
+1409,45,Other,Severe allergic reaction with swollen lips and throat.,2
+1410,82,Female,Severe allergic reaction with swollen lips and throat.,2
+1411,59,Female,High fever of 105°F with body shaking.,2
+1412,50,Female,Slurred speech and one side weakness - possible stroke.,2
+1413,31,Female,Major trauma but stable vitals - requires immediate care.,2
+1414,46,Other,Severe allergic reaction with swollen lips and throat.,2
+1415,90,Female,Severe chest pain with difficulty breathing.,2
+1416,85,Female,Severe allergic reaction with swollen lips and throat.,2
+1417,2,Other,Severe chest pain with difficulty breathing.,2
+1418,78,Other,Severe abdominal pain with vomiting blood.,2
+1419,37,Male,Major trauma but stable vitals - requires immediate care.,2
+1420,46,Male,High fever of 105°F with body shaking.,2
+1421,80,Female,"Severe asthma attack, patient gasping.",2
+1422,81,Male,Severe chest pain with difficulty breathing.,2
+1423,40,Female,Severe chest pain with difficulty breathing.,2
+1424,75,Female,"Severe asthma attack, patient gasping.",2
+1425,12,Female,Accident with little pain in legs,2
+1426,54,Male,High fever of 105°F with body shaking.,2
+1427,17,Other,Accident with little pain in legs,2
+1428,68,Other,Severe allergic reaction with swollen lips and throat.,2
+1429,22,Female,Severe abdominal pain with vomiting blood.,2
+1430,38,Other,Accident with little pain in legs,2
+1431,15,Female,Slurred speech and one side weakness - possible stroke.,2
+1432,19,Male,Pregnant woman with heavy vaginal bleeding.,2
+1433,72,Female,Slurred speech and one side weakness - possible stroke.,2
+1434,51,Male,Severe allergic reaction with swollen lips and throat.,2
+1435,69,Male,Severe abdominal pain with vomiting blood.,2
+1436,48,Other,Severe allergic reaction with swollen lips and throat.,2
+1437,75,Female,Accident with little pain in legs,2
+1438,14,Other,High fever of 105°F with body shaking.,2
+1439,61,Male,Major trauma but stable vitals - requires immediate care.,2
+1440,72,Female,Major trauma but stable vitals - requires immediate care.,2
+1441,29,Other,Slurred speech and one side weakness - possible stroke.,2
+1442,82,Female,Severe allergic reaction with swollen lips and throat.,2
+1443,84,Female,Slurred speech and one side weakness - possible stroke.,2
+1444,18,Male,Severe chest pain with difficulty breathing.,2
+1445,39,Female,Slurred speech and one side weakness - possible stroke.,2
+1446,13,Male,Burn injuries covering face and chest.,2
+1447,18,Female,Severe abdominal pain with vomiting blood.,2
+1448,48,Other,Burn injuries covering face and chest.,2
+1449,54,Other,"Severe asthma attack, patient gasping.",2
+1450,54,Other,Slurred speech and one side weakness - possible stroke.,2
+1451,63,Other,Pregnant woman with heavy vaginal bleeding.,2
+1452,36,Male,Accident with little pain in legs,2
+1453,28,Female,Severe abdominal pain with vomiting blood.,2
+1454,31,Female,Slurred speech and one side weakness - possible stroke.,2
+1455,88,Female,Burn injuries covering face and chest.,2
+1456,83,Female,Severe chest pain with difficulty breathing.,2
+1457,51,Female,High fever of 105°F with body shaking.,2
+1458,16,Female,Slurred speech and one side weakness - possible stroke.,2
+1459,85,Male,Major trauma but stable vitals - requires immediate care.,2
+1460,3,Male,Accident with little pain in legs,2
+1461,32,Male,Major trauma but stable vitals - requires immediate care.,2
+1462,27,Male,Burn injuries covering face and chest.,2
+1463,27,Other,High fever of 105°F with body shaking.,2
+1464,30,Female,"Severe asthma attack, patient gasping.",2
+1465,77,Male,Severe allergic reaction with swollen lips and throat.,2
+1466,19,Male,Burn injuries covering face and chest.,2
+1467,33,Male,Slurred speech and one side weakness - possible stroke.,2
+1468,85,Male,"Severe asthma attack, patient gasping.",2
+1469,2,Female,High fever of 105°F with body shaking.,2
+1470,76,Female,Severe chest pain with difficulty breathing.,2
+1471,23,Female,Severe chest pain with difficulty breathing.,2
+1472,17,Other,Pregnant woman with heavy vaginal bleeding.,2
+1473,68,Male,Slurred speech and one side weakness - possible stroke.,2
+1474,61,Female,Accident with little pain in legs,2
+1475,66,Other,Slurred speech and one side weakness - possible stroke.,2
+1476,58,Other,High fever of 105°F with body shaking.,2
+1477,79,Male,Burn injuries covering face and chest.,2
+1478,39,Female,Severe chest pain with difficulty breathing.,2
+1479,8,Female,Pregnant woman with heavy vaginal bleeding.,2
+1480,55,Other,Slurred speech and one side weakness - possible stroke.,2
+1481,63,Other,Severe abdominal pain with vomiting blood.,2
+1482,10,Male,Accident with little pain in legs,2
+1483,78,Male,Slurred speech and one side weakness - possible stroke.,2
+1484,17,Female,Major trauma but stable vitals - requires immediate care.,2
+1485,82,Other,Burn injuries covering face and chest.,2
+1486,42,Female,Major trauma but stable vitals - requires immediate care.,2
+1487,68,Female,Severe abdominal pain with vomiting blood.,2
+1488,65,Other,Pregnant woman with heavy vaginal bleeding.,2
+1489,13,Other,Slurred speech and one side weakness - possible stroke.,2
+1490,84,Other,Burn injuries covering face and chest.,2
+1491,28,Female,Severe abdominal pain with vomiting blood.,2
+1492,30,Female,Accident with little pain in legs,2
+1493,59,Female,Pregnant woman with heavy vaginal bleeding.,2
+1494,13,Female,Pregnant woman with heavy vaginal bleeding.,2
+1495,41,Other,Severe allergic reaction with swollen lips and throat.,2
+1496,48,Male,Severe abdominal pain with vomiting blood.,2
+1497,9,Male,Slurred speech and one side weakness - possible stroke.,2
+1498,12,Female,Slurred speech and one side weakness - possible stroke.,2
+1499,48,Male,Burn injuries covering face and chest.,2
+1500,8,Other,Burn injuries covering face and chest.,2
+1501,72,Female,Slurred speech and one side weakness - possible stroke.,2
+1502,53,Female,Pregnant woman with heavy vaginal bleeding.,2
+1503,7,Female,Major trauma but stable vitals - requires immediate care.,2
+1504,40,Female,Slurred speech and one side weakness - possible stroke.,2
+1505,74,Other,High fever of 105°F with body shaking.,2
+1506,20,Other,Severe abdominal pain with vomiting blood.,2
+1507,29,Male,Accident with little pain in legs,2
+1508,72,Female,Slurred speech and one side weakness - possible stroke.,2
+1509,36,Other,High fever of 105°F with body shaking.,2
+1510,55,Other,Major trauma but stable vitals - requires immediate care.,2
+1511,79,Other,Burn injuries covering face and chest.,2
+1512,4,Other,Severe allergic reaction with swollen lips and throat.,2
+1513,4,Male,Severe allergic reaction with swollen lips and throat.,2
+1514,90,Female,Accident with little pain in legs,2
+1515,45,Male,"Severe asthma attack, patient gasping.",2
+1516,19,Other,Pregnant woman with heavy vaginal bleeding.,2
+1517,9,Male,Severe chest pain with difficulty breathing.,2
+1518,12,Other,Burn injuries covering face and chest.,2
+1519,28,Female,Pregnant woman with heavy vaginal bleeding.,2
+1520,59,Female,"Severe asthma attack, patient gasping.",2
+1521,48,Female,Accident with little pain in legs,2
+1522,73,Other,Slurred speech and one side weakness - possible stroke.,2
+1523,7,Male,"Severe asthma attack, patient gasping.",2
+1524,80,Male,Slurred speech and one side weakness - possible stroke.,2
+1525,35,Female,Pregnant woman with heavy vaginal bleeding.,2
+1526,63,Other,Severe abdominal pain with vomiting blood.,2
+1527,54,Female,High fever of 105°F with body shaking.,2
+1528,66,Male,Accident with little pain in legs,2
+1529,56,Male,Severe allergic reaction with swollen lips and throat.,2
+1530,87,Other,Major trauma but stable vitals - requires immediate care.,2
+1531,63,Other,Severe allergic reaction with swollen lips and throat.,2
+1532,6,Male,Pregnant woman with heavy vaginal bleeding.,2
+1533,77,Male,Severe chest pain with difficulty breathing.,2
+1534,27,Female,High fever of 105°F with body shaking.,2
+1535,18,Female,Severe allergic reaction with swollen lips and throat.,2
+1536,42,Male,Severe chest pain with difficulty breathing.,2
+1537,64,Other,Pregnant woman with heavy vaginal bleeding.,2
+1538,23,Male,Pregnant woman with heavy vaginal bleeding.,2
+1539,69,Other,High fever of 105°F with body shaking.,2
+1540,65,Other,Accident with little pain in legs,2
+1541,10,Female,Severe chest pain with difficulty breathing.,2
+1542,56,Male,Severe abdominal pain with vomiting blood.,2
+1543,10,Female,Major trauma but stable vitals - requires immediate care.,2
+1544,55,Other,Pregnant woman with heavy vaginal bleeding.,2
+1545,82,Female,Severe allergic reaction with swollen lips and throat.,2
+1546,15,Female,Severe chest pain with difficulty breathing.,2
+1547,42,Male,Major trauma but stable vitals - requires immediate care.,2
+1548,59,Other,Accident with little pain in legs,2
+1549,12,Female,Slurred speech and one side weakness - possible stroke.,2
+1550,32,Female,Major trauma but stable vitals - requires immediate care.,2
+1551,52,Other,Slurred speech and one side weakness - possible stroke.,2
+1552,51,Female,Accident with little pain in legs,2
+1553,29,Female,"Severe asthma attack, patient gasping.",2
+1554,10,Other,Slurred speech and one side weakness - possible stroke.,2
+1555,68,Other,High fever of 105°F with body shaking.,2
+1556,45,Female,"Severe asthma attack, patient gasping.",2
+1557,31,Male,"Severe asthma attack, patient gasping.",2
+1558,33,Male,"Severe asthma attack, patient gasping.",2
+1559,78,Male,Slurred speech and one side weakness - possible stroke.,2
+1560,23,Other,Severe abdominal pain with vomiting blood.,2
+1561,60,Other,Major trauma but stable vitals - requires immediate care.,2
+1562,58,Other,Major trauma but stable vitals - requires immediate care.,2
+1563,83,Other,Major trauma but stable vitals - requires immediate care.,2
+1564,42,Other,Accident with little pain in legs,2
+1565,20,Female,Slurred speech and one side weakness - possible stroke.,2
+1566,61,Female,Severe allergic reaction with swollen lips and throat.,2
+1567,36,Other,Severe chest pain with difficulty breathing.,2
+1568,46,Other,Slurred speech and one side weakness - possible stroke.,2
+1569,40,Female,Severe abdominal pain with vomiting blood.,2
+1570,5,Male,Accident with little pain in legs,2
+1571,37,Male,Slurred speech and one side weakness - possible stroke.,2
+1572,79,Other,Burn injuries covering face and chest.,2
+1573,50,Female,Major trauma but stable vitals - requires immediate care.,2
+1574,71,Other,Severe chest pain with difficulty breathing.,2
+1575,58,Other,High fever of 105°F with body shaking.,2
+1576,42,Other,Severe abdominal pain with vomiting blood.,2
+1577,65,Male,Severe chest pain with difficulty breathing.,2
+1578,58,Male,Accident with little pain in legs,2
+1579,11,Other,"Severe asthma attack, patient gasping.",2
+1580,6,Male,Severe abdominal pain with vomiting blood.,2
+1581,57,Other,Burn injuries covering face and chest.,2
+1582,79,Male,Accident with little pain in legs,2
+1583,48,Female,Pregnant woman with heavy vaginal bleeding.,2
+1584,53,Female,Major trauma but stable vitals - requires immediate care.,2
+1585,7,Other,Accident with little pain in legs,2
+1586,9,Female,Slurred speech and one side weakness - possible stroke.,2
+1587,72,Other,Pregnant woman with heavy vaginal bleeding.,2
+1588,37,Female,Major trauma but stable vitals - requires immediate care.,2
+1589,20,Female,Slurred speech and one side weakness - possible stroke.,2
+1590,75,Other,"Severe asthma attack, patient gasping.",2
+1591,45,Female,Pregnant woman with heavy vaginal bleeding.,2
+1592,17,Other,Slurred speech and one side weakness - possible stroke.,2
+1593,40,Other,Pregnant woman with heavy vaginal bleeding.,2
+1594,83,Female,"Severe asthma attack, patient gasping.",2
+1595,86,Other,Burn injuries covering face and chest.,2
+1596,12,Other,Pregnant woman with heavy vaginal bleeding.,2
+1597,66,Female,Severe chest pain with difficulty breathing.,2
+1598,47,Female,"Severe asthma attack, patient gasping.",2
+1599,28,Female,Severe abdominal pain with vomiting blood.,2
+1600,25,Male,"Severe asthma attack, patient gasping.",2
+1601,20,Male,Severe allergic reaction with swollen lips and throat.,2
+1602,13,Other,Burn injuries covering face and chest.,2
+1603,68,Male,Accident with little pain in legs,2
+1604,80,Male,Major trauma but stable vitals - requires immediate care.,2
+1605,49,Male,"Severe asthma attack, patient gasping.",2
+1606,24,Other,Major trauma but stable vitals - requires immediate care.,2
+1607,22,Other,Severe abdominal pain with vomiting blood.,2
+1608,6,Female,Accident with little pain in legs,2
+1609,87,Other,High fever of 105°F with body shaking.,2
+1610,57,Other,Severe allergic reaction with swollen lips and throat.,2
+1611,58,Male,Burn injuries covering face and chest.,2
+1612,31,Female,Severe abdominal pain with vomiting blood.,2
+1613,25,Female,Major trauma but stable vitals - requires immediate care.,2
+1614,57,Female,Severe allergic reaction with swollen lips and throat.,2
+1615,49,Other,Burn injuries covering face and chest.,2
+1616,54,Male,High fever of 105°F with body shaking.,2
+1617,78,Male,Severe allergic reaction with swollen lips and throat.,2
+1618,7,Other,Severe abdominal pain with vomiting blood.,2
+1619,48,Other,Slurred speech and one side weakness - possible stroke.,2
+1620,67,Male,Severe allergic reaction with swollen lips and throat.,2
+1621,11,Male,Severe allergic reaction with swollen lips and throat.,2
+1622,58,Other,"Severe asthma attack, patient gasping.",2
+1623,56,Male,High fever of 105°F with body shaking.,2
+1624,58,Female,Severe chest pain with difficulty breathing.,2
+1625,54,Male,Pregnant woman with heavy vaginal bleeding.,2
+1626,65,Female,High fever of 105°F with body shaking.,2
+1627,50,Male,Accident with little pain in legs,2
+1628,29,Male,Accident with little pain in legs,2
+1629,13,Other,Accident with little pain in legs,2
+1630,19,Male,Severe chest pain with difficulty breathing.,2
+1631,37,Female,"Severe asthma attack, patient gasping.",2
+1632,61,Female,Major trauma but stable vitals - requires immediate care.,2
+1633,1,Male,Severe chest pain with difficulty breathing.,2
+1634,33,Male,"Severe asthma attack, patient gasping.",2
+1635,71,Other,Major trauma but stable vitals - requires immediate care.,2
+1636,68,Female,Slurred speech and one side weakness - possible stroke.,2
+1637,37,Male,Severe allergic reaction with swollen lips and throat.,2
+1638,16,Male,High fever of 105°F with body shaking.,2
+1639,54,Other,Major trauma but stable vitals - requires immediate care.,2
+1640,59,Male,Slurred speech and one side weakness - possible stroke.,2
+1641,64,Other,Burn injuries covering face and chest.,2
+1642,3,Other,Burn injuries covering face and chest.,2
+1643,74,Male,"Severe asthma attack, patient gasping.",2
+1644,38,Female,Severe chest pain with difficulty breathing.,2
+1645,79,Female,High fever of 105°F with body shaking.,2
+1646,74,Female,"Severe asthma attack, patient gasping.",2
+1647,86,Other,Slurred speech and one side weakness - possible stroke.,2
+1648,68,Female,Slurred speech and one side weakness - possible stroke.,2
+1649,68,Other,Burn injuries covering face and chest.,2
+1650,65,Other,Severe chest pain with difficulty breathing.,2
+1651,50,Female,Severe chest pain with difficulty breathing.,2
+1652,82,Female,Accident with little pain in legs,2
+1653,33,Other,Severe chest pain with difficulty breathing.,2
+1654,46,Male,Accident with little pain in legs,2
+1655,31,Other,Slurred speech and one side weakness - possible stroke.,2
+1656,75,Other,Accident with little pain in legs,2
+1657,18,Male,Accident with little pain in legs,2
+1658,70,Female,"Severe asthma attack, patient gasping.",2
+1659,88,Female,Severe abdominal pain with vomiting blood.,2
+1660,81,Male,"Severe asthma attack, patient gasping.",2
+1661,9,Other,Severe abdominal pain with vomiting blood.,2
+1662,5,Female,High fever of 105°F with body shaking.,2
+1663,6,Male,Severe chest pain with difficulty breathing.,2
+1664,41,Female,Burn injuries covering face and chest.,2
+1665,51,Other,Severe abdominal pain with vomiting blood.,2
+1666,33,Male,High fever of 105°F with body shaking.,2
+1667,37,Female,Severe chest pain with difficulty breathing.,2
+1668,84,Female,Severe allergic reaction with swollen lips and throat.,2
+1669,16,Female,Pregnant woman with heavy vaginal bleeding.,2
+1670,52,Other,Severe abdominal pain with vomiting blood.,2
+1671,50,Female,"Severe asthma attack, patient gasping.",2
+1672,64,Other,Severe abdominal pain with vomiting blood.,2
+1673,48,Other,Severe allergic reaction with swollen lips and throat.,2
+1674,11,Other,Pregnant woman with heavy vaginal bleeding.,2
+1675,11,Female,Major trauma but stable vitals - requires immediate care.,2
+1676,24,Other,Severe allergic reaction with swollen lips and throat.,2
+1677,42,Male,Slurred speech and one side weakness - possible stroke.,2
+1678,42,Other,Severe allergic reaction with swollen lips and throat.,2
+1679,40,Female,Major trauma but stable vitals - requires immediate care.,2
+1680,55,Male,Severe abdominal pain with vomiting blood.,2
+1681,45,Female,Severe chest pain with difficulty breathing.,2
+1682,46,Other,Pregnant woman with heavy vaginal bleeding.,2
+1683,36,Other,Severe chest pain with difficulty breathing.,2
+1684,10,Other,Pregnant woman with heavy vaginal bleeding.,2
+1685,47,Other,"Severe asthma attack, patient gasping.",2
+1686,4,Male,Major trauma but stable vitals - requires immediate care.,2
+1687,87,Female,Severe chest pain with difficulty breathing.,2
+1688,17,Male,High fever of 105°F with body shaking.,2
+1689,83,Female,Accident with little pain in legs,2
+1690,50,Other,Severe chest pain with difficulty breathing.,2
+1691,78,Male,Severe abdominal pain with vomiting blood.,2
+1692,48,Female,Severe abdominal pain with vomiting blood.,2
+1693,10,Other,"Severe asthma attack, patient gasping.",2
+1694,68,Female,Pregnant woman with heavy vaginal bleeding.,2
+1695,41,Other,Severe allergic reaction with swollen lips and throat.,2
+1696,32,Male,Severe chest pain with difficulty breathing.,2
+1697,24,Female,Burn injuries covering face and chest.,2
+1698,50,Other,Slurred speech and one side weakness - possible stroke.,2
+1699,34,Female,Severe abdominal pain with vomiting blood.,2
+1700,28,Other,Severe allergic reaction with swollen lips and throat.,2
+1701,89,Female,"Typhoid symptoms - 102°F fever, headache, weakness.",3
+1702,16,Male,Frequent vomiting with abdominal pain.,3
+1703,58,Male,Non-life-threatening fracture with severe pain.,3
+1704,12,Other,Persistent cough and fever for 5 days.,3
+1705,86,Female,Frequent vomiting with abdominal pain.,3
+1706,71,Other,Severe toothache with swelling.,3
+1707,39,Male,Painful urination with fever - UTI suspected.,3
+1708,47,Other,"Typhoid symptoms - 102°F fever, headache, weakness.",3
+1709,16,Male,Painful urination with fever - UTI suspected.,3
+1710,31,Female,High fever and body ache - possible dengue.,3
+1711,47,Other,Abdominal bloating and discomfort with fever.,3
+1712,48,Female,Ear pain with high-grade fever.,3
+1713,17,Other,Frequent vomiting with abdominal pain.,3
+1714,9,Female,"Dehydration symptoms, dizzy with low BP.",3
+1715,62,Other,"Dehydration symptoms, dizzy with low BP.",3
+1716,53,Other,Frequent vomiting with abdominal pain.,3
+1717,17,Female,Frequent vomiting with abdominal pain.,3
+1718,58,Female,Ear pain with high-grade fever.,3
+1719,45,Male,Ear pain with high-grade fever.,3
+1720,82,Other,Painful urination with fever - UTI suspected.,3
+1721,17,Female,Ear pain with high-grade fever.,3
+1722,8,Male,Ear pain with high-grade fever.,3
+1723,20,Female,Painful urination with fever - UTI suspected.,3
+1724,21,Female,"Typhoid symptoms - 102°F fever, headache, weakness.",3
+1725,45,Other,Severe toothache with swelling.,3
+1726,11,Female,"Typhoid symptoms - 102°F fever, headache, weakness.",3
+1727,82,Other,Severe toothache with swelling.,3
+1728,17,Other,Severe toothache with swelling.,3
+1729,79,Other,Frequent vomiting with abdominal pain.,3
+1730,65,Other,Painful urination with fever - UTI suspected.,3
+1731,76,Other,Painful urination with fever - UTI suspected.,3
+1732,22,Other,Abdominal bloating and discomfort with fever.,3
+1733,78,Female,Abdominal bloating and discomfort with fever.,3
+1734,6,Male,Frequent vomiting with abdominal pain.,3
+1735,6,Other,Abdominal bloating and discomfort with fever.,3
+1736,34,Other,"Typhoid symptoms - 102°F fever, headache, weakness.",3
+1737,74,Female,Abdominal bloating and discomfort with fever.,3
+1738,82,Male,Non-life-threatening fracture with severe pain.,3
+1739,81,Other,Severe toothache with swelling.,3
+1740,83,Female,Non-life-threatening fracture with severe pain.,3
+1741,32,Other,"Dehydration symptoms, dizzy with low BP.",3
+1742,39,Female,Frequent vomiting with abdominal pain.,3
+1743,89,Male,Painful urination with fever - UTI suspected.,3
+1744,57,Female,Non-life-threatening fracture with severe pain.,3
+1745,60,Male,Persistent cough and fever for 5 days.,3
+1746,78,Male,Persistent cough and fever for 5 days.,3
+1747,41,Other,Persistent cough and fever for 5 days.,3
+1748,52,Male,Persistent cough and fever for 5 days.,3
+1749,66,Other,Frequent vomiting with abdominal pain.,3
+1750,41,Male,Non-life-threatening fracture with severe pain.,3
+1751,16,Female,Non-life-threatening fracture with severe pain.,3
+1752,32,Male,Frequent vomiting with abdominal pain.,3
+1753,7,Female,"Dehydration symptoms, dizzy with low BP.",3
+1754,79,Female,"Typhoid symptoms - 102°F fever, headache, weakness.",3
+1755,21,Female,Abdominal bloating and discomfort with fever.,3
+1756,41,Male,Painful urination with fever - UTI suspected.,3
+1757,64,Other,Non-life-threatening fracture with severe pain.,3
+1758,64,Female,Non-life-threatening fracture with severe pain.,3
+1759,3,Male,"Dehydration symptoms, dizzy with low BP.",3
+1760,65,Female,"Typhoid symptoms - 102°F fever, headache, weakness.",3
+1761,28,Other,Persistent cough and fever for 5 days.,3
+1762,7,Male,Severe toothache with swelling.,3
+1763,64,Other,Non-life-threatening fracture with severe pain.,3
+1764,37,Other,High fever and body ache - possible dengue.,3
+1765,14,Female,Painful urination with fever - UTI suspected.,3
+1766,34,Other,Persistent cough and fever for 5 days.,3
+1767,52,Female,High fever and body ache - possible dengue.,3
+1768,52,Male,Abdominal bloating and discomfort with fever.,3
+1769,72,Male,Persistent cough and fever for 5 days.,3
+1770,71,Female,Frequent vomiting with abdominal pain.,3
+1771,50,Other,Non-life-threatening fracture with severe pain.,3
+1772,71,Female,Abdominal bloating and discomfort with fever.,3
+1773,88,Other,Frequent vomiting with abdominal pain.,3
+1774,17,Male,"Dehydration symptoms, dizzy with low BP.",3
+1775,48,Female,Ear pain with high-grade fever.,3
+1776,47,Male,"Typhoid symptoms - 102°F fever, headache, weakness.",3
+1777,78,Other,"Dehydration symptoms, dizzy with low BP.",3
+1778,65,Male,High fever and body ache - possible dengue.,3
+1779,5,Male,Persistent cough and fever for 5 days.,3
+1780,61,Other,Non-life-threatening fracture with severe pain.,3
+1781,20,Other,Ear pain with high-grade fever.,3
+1782,18,Female,Abdominal bloating and discomfort with fever.,3
+1783,41,Male,"Dehydration symptoms, dizzy with low BP.",3
+1784,79,Other,Severe toothache with swelling.,3
+1785,76,Female,Ear pain with high-grade fever.,3
+1786,66,Other,Non-life-threatening fracture with severe pain.,3
+1787,73,Female,Non-life-threatening fracture with severe pain.,3
+1788,3,Female,Persistent cough and fever for 5 days.,3
+1789,87,Male,"Dehydration symptoms, dizzy with low BP.",3
+1790,75,Female,High fever and body ache - possible dengue.,3
+1791,77,Female,Severe toothache with swelling.,3
+1792,84,Other,Abdominal bloating and discomfort with fever.,3
+1793,30,Other,High fever and body ache - possible dengue.,3
+1794,75,Female,Painful urination with fever - UTI suspected.,3
+1795,68,Other,Abdominal bloating and discomfort with fever.,3
+1796,49,Male,"Typhoid symptoms - 102°F fever, headache, weakness.",3
+1797,5,Other,Frequent vomiting with abdominal pain.,3
+1798,25,Male,Non-life-threatening fracture with severe pain.,3
+1799,41,Female,Painful urination with fever - UTI suspected.,3
+1800,53,Other,"Typhoid symptoms - 102°F fever, headache, weakness.",3
+1801,53,Other,Abdominal bloating and discomfort with fever.,3
+1802,61,Other,High fever and body ache - possible dengue.,3
+1803,18,Other,"Typhoid symptoms - 102°F fever, headache, weakness.",3
+1804,72,Female,Non-life-threatening fracture with severe pain.,3
+1805,68,Female,Persistent cough and fever for 5 days.,3
+1806,23,Female,Ear pain with high-grade fever.,3
+1807,44,Other,Persistent cough and fever for 5 days.,3
+1808,87,Other,Severe toothache with swelling.,3
+1809,79,Female,"Typhoid symptoms - 102°F fever, headache, weakness.",3
+1810,32,Female,Ear pain with high-grade fever.,3
+1811,39,Male,Severe toothache with swelling.,3
+1812,37,Other,"Typhoid symptoms - 102°F fever, headache, weakness.",3
+1813,89,Other,Non-life-threatening fracture with severe pain.,3
+1814,41,Female,Persistent cough and fever for 5 days.,3
+1815,72,Other,Severe toothache with swelling.,3
+1816,37,Male,Abdominal bloating and discomfort with fever.,3
+1817,87,Other,"Dehydration symptoms, dizzy with low BP.",3
+1818,51,Female,Painful urination with fever - UTI suspected.,3
+1819,38,Male,Severe toothache with swelling.,3
+1820,11,Female,Non-life-threatening fracture with severe pain.,3
+1821,84,Female,Non-life-threatening fracture with severe pain.,3
+1822,28,Male,Ear pain with high-grade fever.,3
+1823,35,Other,Severe toothache with swelling.,3
+1824,18,Male,Abdominal bloating and discomfort with fever.,3
+1825,76,Male,"Typhoid symptoms - 102°F fever, headache, weakness.",3
+1826,7,Other,Ear pain with high-grade fever.,3
+1827,29,Other,"Typhoid symptoms - 102°F fever, headache, weakness.",3
+1828,7,Male,"Dehydration symptoms, dizzy with low BP.",3
+1829,43,Other,Non-life-threatening fracture with severe pain.,3
+1830,13,Other,Painful urination with fever - UTI suspected.,3
+1831,1,Other,Painful urination with fever - UTI suspected.,3
+1832,53,Other,Non-life-threatening fracture with severe pain.,3
+1833,62,Other,"Typhoid symptoms - 102°F fever, headache, weakness.",3
+1834,37,Female,Severe toothache with swelling.,3
+1835,83,Male,Frequent vomiting with abdominal pain.,3
+1836,84,Other,"Typhoid symptoms - 102°F fever, headache, weakness.",3
+1837,69,Other,High fever and body ache - possible dengue.,3
+1838,23,Female,Painful urination with fever - UTI suspected.,3
+1839,5,Female,Non-life-threatening fracture with severe pain.,3
+1840,24,Other,Severe toothache with swelling.,3
+1841,5,Male,Severe toothache with swelling.,3
+1842,73,Other,Frequent vomiting with abdominal pain.,3
+1843,43,Female,Non-life-threatening fracture with severe pain.,3
+1844,83,Other,Ear pain with high-grade fever.,3
+1845,64,Male,Ear pain with high-grade fever.,3
+1846,60,Female,"Typhoid symptoms - 102°F fever, headache, weakness.",3
+1847,15,Female,Painful urination with fever - UTI suspected.,3
+1848,59,Other,Severe toothache with swelling.,3
+1849,24,Male,Persistent cough and fever for 5 days.,3
+1850,38,Other,"Typhoid symptoms - 102°F fever, headache, weakness.",3
+1851,23,Other,"Dehydration symptoms, dizzy with low BP.",3
+1852,55,Other,Persistent cough and fever for 5 days.,3
+1853,12,Female,Frequent vomiting with abdominal pain.,3
+1854,24,Male,Non-life-threatening fracture with severe pain.,3
+1855,42,Male,High fever and body ache - possible dengue.,3
+1856,34,Female,"Typhoid symptoms - 102°F fever, headache, weakness.",3
+1857,58,Female,Persistent cough and fever for 5 days.,3
+1858,39,Other,Abdominal bloating and discomfort with fever.,3
+1859,2,Female,Persistent cough and fever for 5 days.,3
+1860,89,Male,High fever and body ache - possible dengue.,3
+1861,86,Male,Non-life-threatening fracture with severe pain.,3
+1862,40,Male,"Dehydration symptoms, dizzy with low BP.",3
+1863,88,Other,Severe toothache with swelling.,3
+1864,89,Male,Severe toothache with swelling.,3
+1865,48,Other,"Typhoid symptoms - 102°F fever, headache, weakness.",3
+1866,29,Male,Non-life-threatening fracture with severe pain.,3
+1867,20,Female,Abdominal bloating and discomfort with fever.,3
+1868,48,Female,Ear pain with high-grade fever.,3
+1869,61,Other,"Typhoid symptoms - 102°F fever, headache, weakness.",3
+1870,32,Other,Abdominal bloating and discomfort with fever.,3
+1871,11,Other,Non-life-threatening fracture with severe pain.,3
+1872,68,Other,Persistent cough and fever for 5 days.,3
+1873,10,Other,Frequent vomiting with abdominal pain.,3
+1874,8,Other,Ear pain with high-grade fever.,3
+1875,26,Other,Ear pain with high-grade fever.,3
+1876,20,Male,Persistent cough and fever for 5 days.,3
+1877,67,Female,Frequent vomiting with abdominal pain.,3
+1878,88,Male,Abdominal bloating and discomfort with fever.,3
+1879,63,Male,Ear pain with high-grade fever.,3
+1880,58,Male,Non-life-threatening fracture with severe pain.,3
+1881,17,Other,"Dehydration symptoms, dizzy with low BP.",3
+1882,59,Other,High fever and body ache - possible dengue.,3
+1883,72,Female,Severe toothache with swelling.,3
+1884,3,Female,Severe toothache with swelling.,3
+1885,1,Other,"Typhoid symptoms - 102°F fever, headache, weakness.",3
+1886,75,Male,High fever and body ache - possible dengue.,3
+1887,55,Female,Frequent vomiting with abdominal pain.,3
+1888,70,Male,Frequent vomiting with abdominal pain.,3
+1889,61,Male,Severe toothache with swelling.,3
+1890,53,Male,Painful urination with fever - UTI suspected.,3
+1891,83,Other,"Dehydration symptoms, dizzy with low BP.",3
+1892,48,Female,Non-life-threatening fracture with severe pain.,3
+1893,49,Female,Frequent vomiting with abdominal pain.,3
+1894,88,Other,Ear pain with high-grade fever.,3
+1895,18,Other,Persistent cough and fever for 5 days.,3
+1896,16,Male,Ear pain with high-grade fever.,3
+1897,51,Other,Painful urination with fever - UTI suspected.,3
+1898,29,Male,High fever and body ache - possible dengue.,3
+1899,39,Female,Ear pain with high-grade fever.,3
+1900,55,Other,"Dehydration symptoms, dizzy with low BP.",3
+1901,30,Male,Non-life-threatening fracture with severe pain.,3
+1902,45,Male,Severe toothache with swelling.,3
+1903,25,Other,Frequent vomiting with abdominal pain.,3
+1904,5,Other,"Dehydration symptoms, dizzy with low BP.",3
+1905,79,Male,"Typhoid symptoms - 102°F fever, headache, weakness.",3
+1906,27,Male,Frequent vomiting with abdominal pain.,3
+1907,77,Male,Non-life-threatening fracture with severe pain.,3
+1908,77,Other,High fever and body ache - possible dengue.,3
+1909,32,Other,High fever and body ache - possible dengue.,3
+1910,52,Female,"Typhoid symptoms - 102°F fever, headache, weakness.",3
+1911,70,Male,High fever and body ache - possible dengue.,3
+1912,18,Other,Severe toothache with swelling.,3
+1913,30,Other,Abdominal bloating and discomfort with fever.,3
+1914,41,Other,Abdominal bloating and discomfort with fever.,3
+1915,87,Female,"Typhoid symptoms - 102°F fever, headache, weakness.",3
+1916,39,Male,Ear pain with high-grade fever.,3
+1917,29,Female,Severe toothache with swelling.,3
+1918,36,Male,Ear pain with high-grade fever.,3
+1919,76,Other,Painful urination with fever - UTI suspected.,3
+1920,81,Other,"Dehydration symptoms, dizzy with low BP.",3
+1921,72,Female,High fever and body ache - possible dengue.,3
+1922,45,Other,"Dehydration symptoms, dizzy with low BP.",3
+1923,68,Female,"Dehydration symptoms, dizzy with low BP.",3
+1924,53,Male,Severe toothache with swelling.,3
+1925,49,Male,Ear pain with high-grade fever.,3
+1926,61,Male,"Typhoid symptoms - 102°F fever, headache, weakness.",3
+1927,39,Other,Painful urination with fever - UTI suspected.,3
+1928,60,Male,Ear pain with high-grade fever.,3
+1929,53,Female,Ear pain with high-grade fever.,3
+1930,68,Male,"Dehydration symptoms, dizzy with low BP.",3
+1931,32,Female,"Typhoid symptoms - 102°F fever, headache, weakness.",3
+1932,43,Other,Frequent vomiting with abdominal pain.,3
+1933,58,Female,Frequent vomiting with abdominal pain.,3
+1934,69,Other,"Typhoid symptoms - 102°F fever, headache, weakness.",3
+1935,7,Female,"Dehydration symptoms, dizzy with low BP.",3
+1936,87,Other,Abdominal bloating and discomfort with fever.,3
+1937,6,Male,"Typhoid symptoms - 102°F fever, headache, weakness.",3
+1938,76,Other,Ear pain with high-grade fever.,3
+1939,28,Female,"Typhoid symptoms - 102°F fever, headache, weakness.",3
+1940,43,Female,High fever and body ache - possible dengue.,3
+1941,28,Male,Frequent vomiting with abdominal pain.,3
+1942,62,Male,Abdominal bloating and discomfort with fever.,3
+1943,27,Female,"Typhoid symptoms - 102°F fever, headache, weakness.",3
+1944,71,Female,Severe toothache with swelling.,3
+1945,49,Female,Ear pain with high-grade fever.,3
+1946,84,Female,Severe toothache with swelling.,3
+1947,34,Female,Ear pain with high-grade fever.,3
+1948,64,Female,Frequent vomiting with abdominal pain.,3
+1949,61,Female,"Typhoid symptoms - 102°F fever, headache, weakness.",3
+1950,48,Female,"Dehydration symptoms, dizzy with low BP.",3
+1951,6,Other,"Typhoid symptoms - 102°F fever, headache, weakness.",3
+1952,19,Male,Severe toothache with swelling.,3
+1953,71,Other,Abdominal bloating and discomfort with fever.,3
+1954,54,Female,Painful urination with fever - UTI suspected.,3
+1955,26,Female,"Typhoid symptoms - 102°F fever, headache, weakness.",3
+1956,49,Other,"Typhoid symptoms - 102°F fever, headache, weakness.",3
+1957,64,Other,Persistent cough and fever for 5 days.,3
+1958,33,Female,Non-life-threatening fracture with severe pain.,3
+1959,59,Male,Persistent cough and fever for 5 days.,3
+1960,22,Male,Ear pain with high-grade fever.,3
+1961,63,Male,Ear pain with high-grade fever.,3
+1962,83,Male,Ear pain with high-grade fever.,3
+1963,5,Male,High fever and body ache - possible dengue.,3
+1964,1,Female,Painful urination with fever - UTI suspected.,3
+1965,81,Male,Frequent vomiting with abdominal pain.,3
+1966,20,Male,"Typhoid symptoms - 102°F fever, headache, weakness.",3
+1967,65,Female,Persistent cough and fever for 5 days.,3
+1968,8,Other,Abdominal bloating and discomfort with fever.,3
+1969,62,Other,Non-life-threatening fracture with severe pain.,3
+1970,3,Male,Ear pain with high-grade fever.,3
+1971,71,Female,High fever and body ache - possible dengue.,3
+1972,3,Other,Severe toothache with swelling.,3
+1973,69,Female,High fever and body ache - possible dengue.,3
+1974,65,Other,"Dehydration symptoms, dizzy with low BP.",3
+1975,23,Male,Frequent vomiting with abdominal pain.,3
+1976,68,Male,"Typhoid symptoms - 102°F fever, headache, weakness.",3
+1977,25,Other,Ear pain with high-grade fever.,3
+1978,33,Female,Severe toothache with swelling.,3
+1979,51,Male,Persistent cough and fever for 5 days.,3
+1980,52,Female,Abdominal bloating and discomfort with fever.,3
+1981,32,Other,"Typhoid symptoms - 102°F fever, headache, weakness.",3
+1982,39,Other,Frequent vomiting with abdominal pain.,3
+1983,84,Other,High fever and body ache - possible dengue.,3
+1984,12,Female,"Dehydration symptoms, dizzy with low BP.",3
+1985,49,Other,Non-life-threatening fracture with severe pain.,3
+1986,8,Other,High fever and body ache - possible dengue.,3
+1987,90,Male,Frequent vomiting with abdominal pain.,3
+1988,64,Female,Persistent cough and fever for 5 days.,3
+1989,73,Male,Ear pain with high-grade fever.,3
+1990,6,Male,"Typhoid symptoms - 102°F fever, headache, weakness.",3
+1991,89,Other,Non-life-threatening fracture with severe pain.,3
+1992,35,Male,Frequent vomiting with abdominal pain.,3
+1993,88,Female,Ear pain with high-grade fever.,3
+1994,73,Other,High fever and body ache - possible dengue.,3
+1995,23,Female,High fever and body ache - possible dengue.,3
+1996,27,Other,Painful urination with fever - UTI suspected.,3
+1997,51,Male,Severe toothache with swelling.,3
+1998,21,Other,"Typhoid symptoms - 102°F fever, headache, weakness.",3
+1999,73,Female,Ear pain with high-grade fever.,3
+2000,43,Female,Painful urination with fever - UTI suspected.,3
+2001,89,Other,Frequent vomiting with abdominal pain.,3
+2002,65,Other,Persistent cough and fever for 5 days.,3
+2003,7,Male,"Dehydration symptoms, dizzy with low BP.",3
+2004,30,Male,Persistent cough and fever for 5 days.,3
+2005,78,Other,Abdominal bloating and discomfort with fever.,3
+2006,51,Female,High fever and body ache - possible dengue.,3
+2007,82,Female,Non-life-threatening fracture with severe pain.,3
+2008,63,Male,Persistent cough and fever for 5 days.,3
+2009,71,Female,"Dehydration symptoms, dizzy with low BP.",3
+2010,24,Other,Abdominal bloating and discomfort with fever.,3
+2011,85,Female,Frequent vomiting with abdominal pain.,3
+2012,80,Female,"Typhoid symptoms - 102°F fever, headache, weakness.",3
+2013,10,Male,Severe toothache with swelling.,3
+2014,20,Female,Painful urination with fever - UTI suspected.,3
+2015,50,Female,Persistent cough and fever for 5 days.,3
+2016,14,Male,High fever and body ache - possible dengue.,3
+2017,40,Female,Persistent cough and fever for 5 days.,3
+2018,35,Male,Painful urination with fever - UTI suspected.,3
+2019,12,Male,"Dehydration symptoms, dizzy with low BP.",3
+2020,58,Other,Ear pain with high-grade fever.,3
+2021,66,Female,Frequent vomiting with abdominal pain.,3
+2022,4,Male,Persistent cough and fever for 5 days.,3
+2023,71,Male,Abdominal bloating and discomfort with fever.,3
+2024,77,Female,"Dehydration symptoms, dizzy with low BP.",3
+2025,2,Female,"Dehydration symptoms, dizzy with low BP.",3
+2026,50,Male,Ear pain with high-grade fever.,3
+2027,32,Other,Ear pain with high-grade fever.,3
+2028,22,Other,"Dehydration symptoms, dizzy with low BP.",3
+2029,22,Male,Severe toothache with swelling.,3
+2030,39,Female,Non-life-threatening fracture with severe pain.,3
+2031,19,Male,Painful urination with fever - UTI suspected.,3
+2032,56,Female,"Dehydration symptoms, dizzy with low BP.",3
+2033,39,Female,Frequent vomiting with abdominal pain.,3
+2034,47,Female,"Typhoid symptoms - 102°F fever, headache, weakness.",3
+2035,81,Female,Abdominal bloating and discomfort with fever.,3
+2036,79,Male,Non-life-threatening fracture with severe pain.,3
+2037,14,Male,Severe toothache with swelling.,3
+2038,1,Female,Persistent cough and fever for 5 days.,3
+2039,80,Female,Persistent cough and fever for 5 days.,3
+2040,57,Female,"Dehydration symptoms, dizzy with low BP.",3
+2041,84,Other,Painful urination with fever - UTI suspected.,3
+2042,39,Female,Abdominal bloating and discomfort with fever.,3
+2043,89,Male,Non-life-threatening fracture with severe pain.,3
+2044,41,Male,"Dehydration symptoms, dizzy with low BP.",3
+2045,41,Female,Non-life-threatening fracture with severe pain.,3
+2046,74,Male,Persistent cough and fever for 5 days.,3
+2047,49,Female,"Dehydration symptoms, dizzy with low BP.",3
+2048,47,Male,Abdominal bloating and discomfort with fever.,3
+2049,26,Other,Ear pain with high-grade fever.,3
+2050,24,Other,Ear pain with high-grade fever.,3
+2051,4,Other,Mild headache with no vision issues or fever.,4
+2052,27,Female,Mild rashes on arms and legs.,4
+2053,89,Male,Sprained ankle with mild swelling.,4
+2054,87,Female,"Cough and cold for 4 days, manageable.",4
+2055,82,Female,Moderate back pain after lifting weight.,4
+2056,33,Other,"Cough and cold for 4 days, manageable.",4
+2057,55,Female,Fever of 100°F and body pain.,4
+2058,58,Other,Mild headache with no vision issues or fever.,4
+2059,75,Female,Low-grade fever and mild sore throat.,4
+2060,65,Other,Sprained ankle with mild swelling.,4
+2061,70,Male,"Earache without fever, intermittent pain.",4
+2062,90,Other,Mild allergic reaction – itching and minor swelling.,4
+2063,82,Male,Fever of 100°F and body pain.,4
+2064,32,Other,"Earache without fever, intermittent pain.",4
+2065,22,Other,Mild allergic reaction – itching and minor swelling.,4
+2066,6,Other,Sprained ankle with mild swelling.,4
+2067,43,Female,Fever of 100°F and body pain.,4
+2068,2,Male,Mild rashes on arms and legs.,4
+2069,29,Other,Low-grade fever and mild sore throat.,4
+2070,72,Other,Mild allergic reaction – itching and minor swelling.,4
+2071,29,Female,"Earache without fever, intermittent pain.",4
+2072,51,Female,Mild allergic reaction – itching and minor swelling.,4
+2073,89,Other,"Cough and cold for 4 days, manageable.",4
+2074,45,Male,Mild headache with no vision issues or fever.,4
+2075,14,Female,Sprained ankle with mild swelling.,4
+2076,11,Male,"Cough and cold for 4 days, manageable.",4
+2077,45,Female,"Earache without fever, intermittent pain.",4
+2078,59,Male,Low-grade fever and mild sore throat.,4
+2079,62,Female,Mild headache with no vision issues or fever.,4
+2080,13,Female,Mild headache with no vision issues or fever.,4
+2081,41,Male,Mild rashes on arms and legs.,4
+2082,6,Other,Fever of 100°F and body pain.,4
+2083,3,Female,Fever of 100°F and body pain.,4
+2084,87,Male,Moderate back pain after lifting weight.,4
+2085,67,Male,Low-grade fever and mild sore throat.,4
+2086,21,Female,Low-grade fever and mild sore throat.,4
+2087,55,Female,Moderate back pain after lifting weight.,4
+2088,52,Other,"Cough and cold for 4 days, manageable.",4
+2089,24,Other,Sprained ankle with mild swelling.,4
+2090,51,Male,Mild allergic reaction – itching and minor swelling.,4
+2091,26,Female,Mild allergic reaction – itching and minor swelling.,4
+2092,55,Female,Mild lower abdominal cramps.,4
+2093,28,Male,Mild rashes on arms and legs.,4
+2094,9,Other,Fever of 100°F and body pain.,4
+2095,69,Male,"Earache without fever, intermittent pain.",4
+2096,42,Male,Mild headache with no vision issues or fever.,4
+2097,15,Female,Mild headache with no vision issues or fever.,4
+2098,68,Other,"Earache without fever, intermittent pain.",4
+2099,77,Female,Mild allergic reaction – itching and minor swelling.,4
+2100,51,Other,Fever of 100°F and body pain.,4
+2101,45,Female,Mild headache with no vision issues or fever.,4
+2102,80,Male,Mild rashes on arms and legs.,4
+2103,79,Other,Fever of 100°F and body pain.,4
+2104,87,Male,"Earache without fever, intermittent pain.",4
+2105,16,Male,Mild rashes on arms and legs.,4
+2106,15,Male,"Earache without fever, intermittent pain.",4
+2107,89,Male,Low-grade fever and mild sore throat.,4
+2108,50,Female,Mild allergic reaction – itching and minor swelling.,4
+2109,18,Other,Sprained ankle with mild swelling.,4
+2110,55,Male,Mild headache with no vision issues or fever.,4
+2111,82,Other,"Cough and cold for 4 days, manageable.",4
+2112,72,Male,Mild headache with no vision issues or fever.,4
+2113,37,Male,"Cough and cold for 4 days, manageable.",4
+2114,41,Female,Mild allergic reaction – itching and minor swelling.,4
+2115,7,Female,Mild lower abdominal cramps.,4
+2116,63,Male,Moderate back pain after lifting weight.,4
+2117,50,Other,Low-grade fever and mild sore throat.,4
+2118,84,Female,Sprained ankle with mild swelling.,4
+2119,88,Female,Sprained ankle with mild swelling.,4
+2120,57,Female,"Cough and cold for 4 days, manageable.",4
+2121,11,Other,Mild lower abdominal cramps.,4
+2122,29,Female,Mild lower abdominal cramps.,4
+2123,36,Male,Low-grade fever and mild sore throat.,4
+2124,37,Male,Mild headache with no vision issues or fever.,4
+2125,73,Other,Mild headache with no vision issues or fever.,4
+2126,71,Other,Fever of 100°F and body pain.,4
+2127,74,Male,Mild rashes on arms and legs.,4
+2128,70,Female,Low-grade fever and mild sore throat.,4
+2129,6,Other,Mild headache with no vision issues or fever.,4
+2130,70,Male,Sprained ankle with mild swelling.,4
+2131,14,Other,Moderate back pain after lifting weight.,4
+2132,39,Male,Mild headache with no vision issues or fever.,4
+2133,34,Female,Fever of 100°F and body pain.,4
+2134,57,Male,Moderate back pain after lifting weight.,4
+2135,27,Other,Mild allergic reaction – itching and minor swelling.,4
+2136,89,Female,Mild allergic reaction – itching and minor swelling.,4
+2137,81,Female,"Cough and cold for 4 days, manageable.",4
+2138,79,Male,Moderate back pain after lifting weight.,4
+2139,27,Male,Mild allergic reaction – itching and minor swelling.,4
+2140,45,Other,Mild rashes on arms and legs.,4
+2141,77,Other,"Cough and cold for 4 days, manageable.",4
+2142,42,Other,Mild rashes on arms and legs.,4
+2143,38,Other,Mild rashes on arms and legs.,4
+2144,66,Other,Fever of 100°F and body pain.,4
+2145,18,Female,Mild lower abdominal cramps.,4
+2146,36,Other,"Cough and cold for 4 days, manageable.",4
+2147,90,Male,Moderate back pain after lifting weight.,4
+2148,19,Other,"Earache without fever, intermittent pain.",4
+2149,32,Other,Sprained ankle with mild swelling.,4
+2150,63,Male,Mild allergic reaction – itching and minor swelling.,4
+2151,81,Female,Sprained ankle with mild swelling.,4
+2152,49,Female,Fever of 100°F and body pain.,4
+2153,82,Male,Sprained ankle with mild swelling.,4
+2154,66,Other,Mild rashes on arms and legs.,4
+2155,89,Female,Mild headache with no vision issues or fever.,4
+2156,63,Female,Mild allergic reaction – itching and minor swelling.,4
+2157,1,Other,Fever of 100°F and body pain.,4
+2158,59,Other,"Earache without fever, intermittent pain.",4
+2159,9,Other,Sprained ankle with mild swelling.,4
+2160,28,Female,Moderate back pain after lifting weight.,4
+2161,64,Female,"Earache without fever, intermittent pain.",4
+2162,37,Female,Low-grade fever and mild sore throat.,4
+2163,74,Male,Mild allergic reaction – itching and minor swelling.,4
+2164,63,Female,Mild lower abdominal cramps.,4
+2165,6,Male,Mild headache with no vision issues or fever.,4
+2166,3,Male,"Cough and cold for 4 days, manageable.",4
+2167,57,Female,Mild lower abdominal cramps.,4
+2168,55,Male,"Cough and cold for 4 days, manageable.",4
+2169,84,Female,"Cough and cold for 4 days, manageable.",4
+2170,36,Male,"Earache without fever, intermittent pain.",4
+2171,33,Male,"Earache without fever, intermittent pain.",4
+2172,86,Other,"Cough and cold for 4 days, manageable.",4
+2173,7,Female,Mild rashes on arms and legs.,4
+2174,90,Male,Sprained ankle with mild swelling.,4
+2175,84,Male,Fever of 100°F and body pain.,4
+2176,1,Male,Mild headache with no vision issues or fever.,4
+2177,10,Male,Mild allergic reaction – itching and minor swelling.,4
+2178,29,Other,Mild headache with no vision issues or fever.,4
+2179,2,Male,"Earache without fever, intermittent pain.",4
+2180,16,Female,"Cough and cold for 4 days, manageable.",4
+2181,62,Male,Moderate back pain after lifting weight.,4
+2182,50,Male,Fever of 100°F and body pain.,4
+2183,14,Female,"Earache without fever, intermittent pain.",4
+2184,39,Male,Sprained ankle with mild swelling.,4
+2185,18,Other,"Cough and cold for 4 days, manageable.",4
+2186,9,Other,Mild allergic reaction – itching and minor swelling.,4
+2187,2,Other,"Cough and cold for 4 days, manageable.",4
+2188,57,Female,Moderate back pain after lifting weight.,4
+2189,81,Other,"Cough and cold for 4 days, manageable.",4
+2190,53,Other,Mild headache with no vision issues or fever.,4
+2191,28,Male,Fever of 100°F and body pain.,4
+2192,18,Male,Mild allergic reaction – itching and minor swelling.,4
+2193,50,Female,Sprained ankle with mild swelling.,4
+2194,41,Male,Moderate back pain after lifting weight.,4
+2195,36,Other,Fever of 100°F and body pain.,4
+2196,32,Other,Mild allergic reaction – itching and minor swelling.,4
+2197,77,Other,Mild allergic reaction – itching and minor swelling.,4
+2198,37,Other,Mild lower abdominal cramps.,4
+2199,85,Female,Moderate back pain after lifting weight.,4
+2200,67,Other,Low-grade fever and mild sore throat.,4
+2201,25,Other,Sprained ankle with mild swelling.,4
+2202,38,Other,Mild lower abdominal cramps.,4
+2203,31,Female,Sprained ankle with mild swelling.,4
+2204,15,Male,Mild headache with no vision issues or fever.,4
+2205,82,Other,Fever of 100°F and body pain.,4
+2206,68,Male,"Earache without fever, intermittent pain.",4
+2207,41,Male,Sprained ankle with mild swelling.,4
+2208,73,Female,"Earache without fever, intermittent pain.",4
+2209,70,Other,"Cough and cold for 4 days, manageable.",4
+2210,61,Male,Mild lower abdominal cramps.,4
+2211,76,Male,Mild lower abdominal cramps.,4
+2212,34,Male,Mild lower abdominal cramps.,4
+2213,8,Female,Low-grade fever and mild sore throat.,4
+2214,37,Other,Low-grade fever and mild sore throat.,4
+2215,54,Female,Sprained ankle with mild swelling.,4
+2216,11,Other,Low-grade fever and mild sore throat.,4
+2217,69,Other,"Cough and cold for 4 days, manageable.",4
+2218,36,Male,Mild rashes on arms and legs.,4
+2219,11,Other,Moderate back pain after lifting weight.,4
+2220,20,Other,"Earache without fever, intermittent pain.",4
+2221,51,Other,Fever of 100°F and body pain.,4
+2222,40,Other,Sprained ankle with mild swelling.,4
+2223,31,Male,Moderate back pain after lifting weight.,4
+2224,12,Female,Fever of 100°F and body pain.,4
+2225,59,Other,Mild allergic reaction – itching and minor swelling.,4
+2226,8,Female,"Cough and cold for 4 days, manageable.",4
+2227,16,Male,"Cough and cold for 4 days, manageable.",4
+2228,90,Male,"Cough and cold for 4 days, manageable.",4
+2229,64,Female,Low-grade fever and mild sore throat.,4
+2230,67,Other,Mild rashes on arms and legs.,4
+2231,22,Female,"Cough and cold for 4 days, manageable.",4
+2232,35,Other,Fever of 100°F and body pain.,4
+2233,4,Female,Sprained ankle with mild swelling.,4
+2234,35,Other,Fever of 100°F and body pain.,4
+2235,34,Other,Mild allergic reaction – itching and minor swelling.,4
+2236,81,Male,Mild headache with no vision issues or fever.,4
+2237,59,Other,"Earache without fever, intermittent pain.",4
+2238,8,Female,Mild allergic reaction – itching and minor swelling.,4
+2239,22,Female,"Cough and cold for 4 days, manageable.",4
+2240,33,Male,Mild allergic reaction – itching and minor swelling.,4
+2241,87,Other,Fever of 100°F and body pain.,4
+2242,30,Other,Low-grade fever and mild sore throat.,4
+2243,1,Male,Mild lower abdominal cramps.,4
+2244,32,Male,Mild headache with no vision issues or fever.,4
+2245,47,Female,"Cough and cold for 4 days, manageable.",4
+2246,23,Male,Low-grade fever and mild sore throat.,4
+2247,84,Female,Moderate back pain after lifting weight.,4
+2248,42,Male,Sprained ankle with mild swelling.,4
+2249,41,Female,Fever of 100°F and body pain.,4
+2250,74,Female,Fever of 100°F and body pain.,4
+2251,65,Other,Mild lower abdominal cramps.,4
+2252,23,Male,Low-grade fever and mild sore throat.,4
+2253,6,Female,Fever of 100°F and body pain.,4
+2254,60,Female,Mild rashes on arms and legs.,4
+2255,42,Male,Low-grade fever and mild sore throat.,4
+2256,59,Male,"Earache without fever, intermittent pain.",4
+2257,26,Female,Mild allergic reaction – itching and minor swelling.,4
+2258,39,Other,Mild allergic reaction – itching and minor swelling.,4
+2259,32,Female,"Earache without fever, intermittent pain.",4
+2260,76,Female,Moderate back pain after lifting weight.,4
+2261,70,Male,"Cough and cold for 4 days, manageable.",4
+2262,1,Female,Mild lower abdominal cramps.,4
+2263,30,Other,"Earache without fever, intermittent pain.",4
+2264,82,Other,Mild lower abdominal cramps.,4
+2265,43,Male,Sprained ankle with mild swelling.,4
+2266,40,Male,Moderate back pain after lifting weight.,4
+2267,68,Male,Sprained ankle with mild swelling.,4
+2268,63,Male,"Cough and cold for 4 days, manageable.",4
+2269,36,Male,Mild lower abdominal cramps.,4
+2270,30,Other,Sprained ankle with mild swelling.,4
+2271,90,Female,Mild headache with no vision issues or fever.,4
+2272,11,Other,Fever of 100°F and body pain.,4
+2273,65,Male,Sprained ankle with mild swelling.,4
+2274,10,Other,Mild allergic reaction – itching and minor swelling.,4
+2275,8,Female,"Cough and cold for 4 days, manageable.",4
+2276,31,Female,Mild rashes on arms and legs.,4
+2277,41,Female,"Earache without fever, intermittent pain.",4
+2278,41,Female,Mild rashes on arms and legs.,4
+2279,30,Male,Moderate back pain after lifting weight.,4
+2280,18,Other,Fever of 100°F and body pain.,4
+2281,20,Male,"Cough and cold for 4 days, manageable.",4
+2282,58,Female,"Earache without fever, intermittent pain.",4
+2283,53,Male,Low-grade fever and mild sore throat.,4
+2284,46,Male,Mild headache with no vision issues or fever.,4
+2285,40,Female,Mild rashes on arms and legs.,4
+2286,16,Male,"Cough and cold for 4 days, manageable.",4
+2287,88,Female,Mild allergic reaction – itching and minor swelling.,4
+2288,6,Male,"Earache without fever, intermittent pain.",4
+2289,19,Male,Moderate back pain after lifting weight.,4
+2290,46,Female,Low-grade fever and mild sore throat.,4
+2291,7,Other,Mild rashes on arms and legs.,4
+2292,34,Male,Mild lower abdominal cramps.,4
+2293,52,Female,Low-grade fever and mild sore throat.,4
+2294,71,Male,Fever of 100°F and body pain.,4
+2295,60,Male,"Cough and cold for 4 days, manageable.",4
+2296,16,Male,Mild lower abdominal cramps.,4
+2297,29,Male,Moderate back pain after lifting weight.,4
+2298,52,Female,Fever of 100°F and body pain.,4
+2299,75,Other,Mild rashes on arms and legs.,4
+2300,10,Male,Fever of 100°F and body pain.,4
+2301,26,Other,Mild headache with no vision issues or fever.,4
+2302,17,Male,"Earache without fever, intermittent pain.",4
+2303,16,Male,Mild headache with no vision issues or fever.,4
+2304,7,Male,Mild allergic reaction – itching and minor swelling.,4
+2305,56,Other,Sprained ankle with mild swelling.,4
+2306,64,Male,Sprained ankle with mild swelling.,4
+2307,88,Female,"Cough and cold for 4 days, manageable.",4
+2308,46,Male,"Cough and cold for 4 days, manageable.",4
+2309,36,Female,Mild headache with no vision issues or fever.,4
+2310,20,Male,Mild allergic reaction – itching and minor swelling.,4
+2311,80,Other,Moderate back pain after lifting weight.,4
+2312,83,Female,Mild headache with no vision issues or fever.,4
+2313,53,Other,Mild headache with no vision issues or fever.,4
+2314,8,Male,Mild rashes on arms and legs.,4
+2315,50,Male,Sprained ankle with mild swelling.,4
+2316,26,Other,Low-grade fever and mild sore throat.,4
+2317,32,Other,Low-grade fever and mild sore throat.,4
+2318,3,Female,"Earache without fever, intermittent pain.",4
+2319,62,Other,Mild headache with no vision issues or fever.,4
+2320,45,Other,Low-grade fever and mild sore throat.,4
+2321,42,Female,Mild rashes on arms and legs.,4
+2322,24,Male,"Earache without fever, intermittent pain.",4
+2323,77,Male,Mild lower abdominal cramps.,4
+2324,36,Male,Mild headache with no vision issues or fever.,4
+2325,68,Female,Mild allergic reaction – itching and minor swelling.,4
+2326,30,Male,Fever of 100°F and body pain.,4
+2327,32,Other,Moderate back pain after lifting weight.,4
+2328,35,Other,Mild lower abdominal cramps.,4
+2329,29,Other,Sprained ankle with mild swelling.,4
+2330,46,Male,"Cough and cold for 4 days, manageable.",4
+2331,31,Other,"Earache without fever, intermittent pain.",4
+2332,90,Female,Mild allergic reaction – itching and minor swelling.,4
+2333,4,Other,"Earache without fever, intermittent pain.",4
+2334,73,Other,"Cough and cold for 4 days, manageable.",4
+2335,73,Male,Mild headache with no vision issues or fever.,4
+2336,70,Female,"Cough and cold for 4 days, manageable.",4
+2337,63,Male,Fever of 100°F and body pain.,4
+2338,8,Male,Mild allergic reaction – itching and minor swelling.,4
+2339,29,Male,Low-grade fever and mild sore throat.,4
+2340,62,Male,"Earache without fever, intermittent pain.",4
+2341,79,Male,"Cough and cold for 4 days, manageable.",4
+2342,44,Other,"Cough and cold for 4 days, manageable.",4
+2343,42,Male,Mild lower abdominal cramps.,4
+2344,19,Other,"Cough and cold for 4 days, manageable.",4
+2345,15,Other,"Earache without fever, intermittent pain.",4
+2346,10,Female,Sprained ankle with mild swelling.,4
+2347,76,Male,"Earache without fever, intermittent pain.",4
+2348,39,Female,"Cough and cold for 4 days, manageable.",4
+2349,21,Other,Sprained ankle with mild swelling.,4
+2350,82,Female,"Earache without fever, intermittent pain.",4
+2351,23,Other,Low-grade fever and mild sore throat.,4
+2352,89,Other,"Earache without fever, intermittent pain.",4
+2353,29,Other,Mild allergic reaction – itching and minor swelling.,4
+2354,23,Female,Mild rashes on arms and legs.,4
+2355,89,Female,"Cough and cold for 4 days, manageable.",4
+2356,23,Other,Mild lower abdominal cramps.,4
+2357,90,Other,Sprained ankle with mild swelling.,4
+2358,73,Male,"Cough and cold for 4 days, manageable.",4
+2359,78,Female,Mild allergic reaction – itching and minor swelling.,4
+2360,29,Other,Mild allergic reaction – itching and minor swelling.,4
+2361,14,Female,"Cough and cold for 4 days, manageable.",4
+2362,43,Other,Fever of 100°F and body pain.,4
+2363,31,Female,"Earache without fever, intermittent pain.",4
+2364,22,Other,Fever of 100°F and body pain.,4
+2365,86,Other,"Earache without fever, intermittent pain.",4
+2366,58,Male,Mild rashes on arms and legs.,4
+2367,27,Male,Fever of 100°F and body pain.,4
+2368,45,Female,Fever of 100°F and body pain.,4
+2369,1,Male,Sprained ankle with mild swelling.,4
+2370,57,Other,Sprained ankle with mild swelling.,4
+2371,22,Female,Mild headache with no vision issues or fever.,4
+2372,49,Female,Low-grade fever and mild sore throat.,4
+2373,49,Male,Mild headache with no vision issues or fever.,4
+2374,74,Other,Moderate back pain after lifting weight.,4
+2375,21,Female,Fever of 100°F and body pain.,4
+2376,5,Female,Mild lower abdominal cramps.,4
+2377,41,Female,Fever of 100°F and body pain.,4
+2378,10,Female,"Cough and cold for 4 days, manageable.",4
+2379,49,Male,Fever of 100°F and body pain.,4
+2380,71,Male,"Earache without fever, intermittent pain.",4
+2381,77,Other,Mild headache with no vision issues or fever.,4
+2382,4,Female,"Cough and cold for 4 days, manageable.",4
+2383,78,Female,"Cough and cold for 4 days, manageable.",4
+2384,7,Male,"Earache without fever, intermittent pain.",4
+2385,27,Male,Sprained ankle with mild swelling.,4
+2386,90,Other,Low-grade fever and mild sore throat.,4
+2387,34,Other,Mild rashes on arms and legs.,4
+2388,39,Male,Fever of 100°F and body pain.,4
+2389,7,Female,Mild allergic reaction – itching and minor swelling.,4
+2390,71,Female,"Cough and cold for 4 days, manageable.",4
+2391,7,Female,Mild lower abdominal cramps.,4
+2392,55,Male,Mild rashes on arms and legs.,4
+2393,85,Other,Mild allergic reaction – itching and minor swelling.,4
+2394,62,Male,Fever of 100°F and body pain.,4
+2395,4,Male,"Cough and cold for 4 days, manageable.",4
+2396,82,Female,Fever of 100°F and body pain.,4
+2397,61,Male,Mild rashes on arms and legs.,4
+2398,51,Female,Mild headache with no vision issues or fever.,4
+2399,85,Female,Fever of 100°F and body pain.,4
+2400,83,Other,Sprained ankle with mild swelling.,4
+2401,24,Female,Request for routine checkup.,5
+2402,48,Male,"Mild indigestion, no pain or vomiting.",5
+2403,6,Female,"Mild indigestion, no pain or vomiting.",5
+2404,60,Female,"Menstrual cramps, bearable.",5
+2405,35,Other,Slight headache and tiredness.,5
+2406,20,Other,"Cold and runny nose, no fever.",5
+2407,11,Other,Soreness due to exercise,5
+2408,70,Female,"Vaccination request, no symptoms.",5
+2409,30,Other,Slight headache and tiredness.,5
+2410,50,Other,Request for routine checkup.,5
+2411,69,Other,"Mild indigestion, no pain or vomiting.",5
+2412,74,Male,"Mild indigestion, no pain or vomiting.",5
+2413,39,Male,Request for routine checkup.,5
+2414,5,Other,"Vaccination request, no symptoms.",5
+2415,67,Other,"Vaccination request, no symptoms.",5
+2416,19,Male,"Mild indigestion, no pain or vomiting.",5
+2417,23,Male,"Menstrual cramps, bearable.",5
+2418,25,Male,Slight headache and tiredness.,5
+2419,55,Male,Request for routine checkup.,5
+2420,26,Other,Mild acne breakout.,5
+2421,77,Female,Soreness due to exercise,5
+2422,9,Male,Request for routine checkup.,5
+2423,72,Female,Itching due to dry skin.,5
+2424,42,Female,Itching due to dry skin.,5
+2425,59,Male,"Vaccination request, no symptoms.",5
+2426,76,Other,Request for routine checkup.,5
+2427,15,Female,Mild acne breakout.,5
+2428,19,Other,"Vaccination request, no symptoms.",5
+2429,75,Male,"Cold and runny nose, no fever.",5
+2430,73,Male,General fatigue and request for multivitamin.,5
+2431,69,Female,Request for routine checkup.,5
+2432,34,Female,"Mild indigestion, no pain or vomiting.",5
+2433,74,Other,"Mild indigestion, no pain or vomiting.",5
+2434,5,Male,General fatigue and request for multivitamin.,5
+2435,52,Male,"Vaccination request, no symptoms.",5
+2436,78,Other,Request for routine checkup.,5
+2437,5,Female,Soreness due to exercise,5
+2438,89,Male,Slight headache and tiredness.,5
+2439,61,Female,Soreness due to exercise,5
+2440,3,Female,General fatigue and request for multivitamin.,5
+2441,40,Female,"Mild indigestion, no pain or vomiting.",5
+2442,90,Other,"Cold and runny nose, no fever.",5
+2443,30,Male,General fatigue and request for multivitamin.,5
+2444,57,Female,General fatigue and request for multivitamin.,5
+2445,54,Other,"Cold and runny nose, no fever.",5
+2446,25,Female,"Menstrual cramps, bearable.",5
+2447,53,Other,"Mild indigestion, no pain or vomiting.",5
+2448,67,Female,Slight headache and tiredness.,5
+2449,66,Male,"Cold and runny nose, no fever.",5
+2450,40,Other,Itching due to dry skin.,5
+2451,52,Male,Itching due to dry skin.,5
+2452,73,Male,Mild acne breakout.,5
+2453,25,Male,Slight headache and tiredness.,5
+2454,32,Male,"Mild indigestion, no pain or vomiting.",5
+2455,7,Female,"Menstrual cramps, bearable.",5
+2456,36,Female,"Mild indigestion, no pain or vomiting.",5
+2457,65,Female,"Cold and runny nose, no fever.",5
+2458,88,Male,"Menstrual cramps, bearable.",5
+2459,48,Female,"Vaccination request, no symptoms.",5
+2460,58,Male,"Mild indigestion, no pain or vomiting.",5
+2461,76,Other,Soreness due to exercise,5
+2462,45,Male,General fatigue and request for multivitamin.,5
+2463,89,Male,General fatigue and request for multivitamin.,5
+2464,4,Female,Slight headache and tiredness.,5
+2465,21,Other,"Menstrual cramps, bearable.",5
+2466,29,Other,"Menstrual cramps, bearable.",5
+2467,87,Male,General fatigue and request for multivitamin.,5
+2468,84,Female,Itching due to dry skin.,5
+2469,3,Other,Slight headache and tiredness.,5
+2470,61,Male,Mild acne breakout.,5
+2471,77,Male,"Menstrual cramps, bearable.",5
+2472,33,Other,General fatigue and request for multivitamin.,5
+2473,83,Female,Request for routine checkup.,5
+2474,49,Female,"Mild indigestion, no pain or vomiting.",5
+2475,33,Male,"Mild indigestion, no pain or vomiting.",5
+2476,39,Other,Itching due to dry skin.,5
+2477,80,Female,"Vaccination request, no symptoms.",5
+2478,14,Male,Itching due to dry skin.,5
+2479,85,Female,Itching due to dry skin.,5
+2480,83,Other,"Vaccination request, no symptoms.",5
+2481,37,Female,"Cold and runny nose, no fever.",5
+2482,62,Male,Soreness due to exercise,5
+2483,36,Other,Soreness due to exercise,5
+2484,36,Female,General fatigue and request for multivitamin.,5
+2485,25,Male,Itching due to dry skin.,5
+2486,31,Male,"Vaccination request, no symptoms.",5
+2487,52,Other,Soreness due to exercise,5
+2488,88,Male,Slight headache and tiredness.,5
+2489,84,Female,General fatigue and request for multivitamin.,5
+2490,34,Female,Request for routine checkup.,5
+2491,50,Other,Slight headache and tiredness.,5
+2492,75,Other,"Vaccination request, no symptoms.",5
+2493,25,Female,"Menstrual cramps, bearable.",5
+2494,88,Other,"Mild indigestion, no pain or vomiting.",5
+2495,86,Female,Itching due to dry skin.,5
+2496,39,Male,Itching due to dry skin.,5
+2497,24,Female,"Cold and runny nose, no fever.",5
+2498,61,Male,General fatigue and request for multivitamin.,5
+2499,72,Male,Soreness due to exercise,5
+2500,84,Male,"Menstrual cramps, bearable.",5
+2501,46,Male,General fatigue and request for multivitamin.,5
+2502,54,Female,Soreness due to exercise,5
+2503,34,Other,General fatigue and request for multivitamin.,5
+2504,60,Male,"Mild indigestion, no pain or vomiting.",5
+2505,7,Other,"Vaccination request, no symptoms.",5
+2506,75,Other,"Cold and runny nose, no fever.",5
+2507,61,Male,Itching due to dry skin.,5
+2508,16,Other,Request for routine checkup.,5
+2509,68,Female,Request for routine checkup.,5
+2510,7,Male,Mild acne breakout.,5
+2511,26,Female,Request for routine checkup.,5
+2512,73,Female,Mild acne breakout.,5
+2513,41,Other,Mild acne breakout.,5
+2514,11,Female,Soreness due to exercise,5
+2515,81,Male,Soreness due to exercise,5
+2516,82,Male,Slight headache and tiredness.,5
+2517,58,Female,"Menstrual cramps, bearable.",5
+2518,22,Other,Mild acne breakout.,5
+2519,63,Male,Mild acne breakout.,5
+2520,79,Female,Request for routine checkup.,5
+2521,52,Female,"Mild indigestion, no pain or vomiting.",5
+2522,50,Male,Slight headache and tiredness.,5
+2523,69,Male,Soreness due to exercise,5
+2524,2,Female,Itching due to dry skin.,5
+2525,25,Male,Slight headache and tiredness.,5
+2526,81,Other,"Menstrual cramps, bearable.",5
+2527,29,Other,Soreness due to exercise,5
+2528,40,Male,"Cold and runny nose, no fever.",5
+2529,50,Other,"Vaccination request, no symptoms.",5
+2530,40,Male,"Cold and runny nose, no fever.",5
+2531,6,Female,General fatigue and request for multivitamin.,5
+2532,59,Other,Itching due to dry skin.,5
+2533,77,Other,Soreness due to exercise,5
+2534,56,Other,Mild acne breakout.,5
+2535,44,Female,Soreness due to exercise,5
+2536,25,Male,Request for routine checkup.,5
+2537,3,Male,"Menstrual cramps, bearable.",5
+2538,17,Male,Slight headache and tiredness.,5
+2539,76,Other,Mild acne breakout.,5
+2540,16,Female,Slight headache and tiredness.,5
+2541,49,Other,General fatigue and request for multivitamin.,5
+2542,69,Other,Slight headache and tiredness.,5
+2543,77,Male,"Cold and runny nose, no fever.",5
+2544,84,Male,Slight headache and tiredness.,5
+2545,89,Male,Request for routine checkup.,5
+2546,57,Female,"Cold and runny nose, no fever.",5
+2547,71,Female,"Mild indigestion, no pain or vomiting.",5
+2548,90,Male,"Menstrual cramps, bearable.",5
+2549,89,Other,Slight headache and tiredness.,5
+2550,39,Female,"Cold and runny nose, no fever.",5
+2551,85,Other,General fatigue and request for multivitamin.,5
+2552,80,Other,Mild acne breakout.,5
+2553,54,Male,Itching due to dry skin.,5
+2554,80,Male,General fatigue and request for multivitamin.,5
+2555,15,Male,"Mild indigestion, no pain or vomiting.",5
+2556,26,Other,"Menstrual cramps, bearable.",5
+2557,34,Other,"Menstrual cramps, bearable.",5
+2558,46,Other,Request for routine checkup.,5
+2559,38,Male,Slight headache and tiredness.,5
+2560,71,Female,"Menstrual cramps, bearable.",5
+2561,89,Female,Soreness due to exercise,5
+2562,31,Male,Slight headache and tiredness.,5
+2563,86,Male,"Cold and runny nose, no fever.",5
+2564,74,Other,"Mild indigestion, no pain or vomiting.",5
+2565,20,Male,Itching due to dry skin.,5
+2566,10,Other,"Cold and runny nose, no fever.",5
+2567,33,Other,"Menstrual cramps, bearable.",5
+2568,59,Female,General fatigue and request for multivitamin.,5
+2569,60,Male,"Cold and runny nose, no fever.",5
+2570,23,Male,General fatigue and request for multivitamin.,5
+2571,47,Other,Soreness due to exercise,5
+2572,55,Other,"Cold and runny nose, no fever.",5
+2573,13,Male,Slight headache and tiredness.,5
+2574,18,Other,Mild acne breakout.,5
+2575,43,Female,"Mild indigestion, no pain or vomiting.",5
+2576,80,Female,"Cold and runny nose, no fever.",5
+2577,48,Female,Mild acne breakout.,5
+2578,15,Female,Request for routine checkup.,5
+2579,59,Female,Request for routine checkup.,5
+2580,89,Female,Request for routine checkup.,5
+2581,84,Male,"Cold and runny nose, no fever.",5
+2582,17,Other,Slight headache and tiredness.,5
+2583,21,Male,Request for routine checkup.,5
+2584,76,Female,"Vaccination request, no symptoms.",5
+2585,87,Female,Mild acne breakout.,5
+2586,79,Female,Soreness due to exercise,5
+2587,79,Male,Mild acne breakout.,5
+2588,62,Female,"Cold and runny nose, no fever.",5
+2589,53,Female,Slight headache and tiredness.,5
+2590,9,Female,Soreness due to exercise,5
+2591,2,Other,Itching due to dry skin.,5
+2592,74,Other,"Vaccination request, no symptoms.",5
+2593,29,Other,Soreness due to exercise,5
+2594,67,Other,"Vaccination request, no symptoms.",5
+2595,13,Female,"Menstrual cramps, bearable.",5
+2596,62,Female,Request for routine checkup.,5
+2597,20,Other,"Vaccination request, no symptoms.",5
+2598,7,Male,Mild acne breakout.,5
+2599,65,Female,"Mild indigestion, no pain or vomiting.",5
+2600,22,Male,"Mild indigestion, no pain or vomiting.",5
+2601,42,Male,Soreness due to exercise,5
+2602,36,Male,Itching due to dry skin.,5
+2603,29,Other,Request for routine checkup.,5
+2604,52,Male,"Cold and runny nose, no fever.",5
+2605,59,Female,"Vaccination request, no symptoms.",5
+2606,58,Male,"Mild indigestion, no pain or vomiting.",5
+2607,58,Female,"Cold and runny nose, no fever.",5
+2608,64,Other,Slight headache and tiredness.,5
+2609,14,Female,Request for routine checkup.,5
+2610,5,Other,Itching due to dry skin.,5
+2611,1,Male,"Vaccination request, no symptoms.",5
+2612,80,Other,General fatigue and request for multivitamin.,5
+2613,66,Other,"Menstrual cramps, bearable.",5
+2614,84,Other,"Mild indigestion, no pain or vomiting.",5
+2615,44,Female,Slight headache and tiredness.,5
+2616,29,Female,Soreness due to exercise,5
+2617,72,Other,"Vaccination request, no symptoms.",5
+2618,61,Other,Soreness due to exercise,5
+2619,58,Male,"Cold and runny nose, no fever.",5
+2620,85,Male,Slight headache and tiredness.,5
+2621,44,Female,General fatigue and request for multivitamin.,5
+2622,71,Other,Soreness due to exercise,5
+2623,90,Male,Slight headache and tiredness.,5
+2624,22,Female,Mild acne breakout.,5
+2625,53,Male,General fatigue and request for multivitamin.,5
+2626,79,Male,"Menstrual cramps, bearable.",5
+2627,16,Female,"Menstrual cramps, bearable.",5
+2628,59,Male,Soreness due to exercise,5
+2629,14,Female,Slight headache and tiredness.,5
+2630,82,Other,"Vaccination request, no symptoms.",5
+2631,16,Female,"Mild indigestion, no pain or vomiting.",5
+2632,85,Other,Itching due to dry skin.,5
+2633,18,Female,Slight headache and tiredness.,5
+2634,68,Other,Slight headache and tiredness.,5
+2635,71,Female,"Vaccination request, no symptoms.",5
+2636,62,Other,Mild acne breakout.,5
+2637,89,Other,Mild acne breakout.,5
+2638,17,Male,Request for routine checkup.,5
+2639,85,Other,"Vaccination request, no symptoms.",5
+2640,42,Other,Request for routine checkup.,5
+2641,54,Other,"Menstrual cramps, bearable.",5
+2642,36,Female,Soreness due to exercise,5
+2643,38,Female,Mild acne breakout.,5
+2644,18,Female,"Vaccination request, no symptoms.",5
+2645,90,Other,Itching due to dry skin.,5
+2646,39,Other,Itching due to dry skin.,5
+2647,41,Other,Itching due to dry skin.,5
+2648,81,Male,"Menstrual cramps, bearable.",5
+2649,27,Other,General fatigue and request for multivitamin.,5
+2650,88,Female,Mild acne breakout.,5
+2651,84,Male,Itching due to dry skin.,5
+2652,70,Other,Soreness due to exercise,5
+2653,15,Female,Itching due to dry skin.,5
+2654,62,Other,"Vaccination request, no symptoms.",5
+2655,86,Other,Request for routine checkup.,5
+2656,87,Other,Itching due to dry skin.,5
+2657,37,Female,Slight headache and tiredness.,5
+2658,67,Male,Slight headache and tiredness.,5
+2659,49,Male,Slight headache and tiredness.,5
+2660,86,Male,"Menstrual cramps, bearable.",5
+2661,35,Male,General fatigue and request for multivitamin.,5
+2662,88,Female,Mild acne breakout.,5
+2663,8,Other,General fatigue and request for multivitamin.,5
+2664,27,Other,Slight headache and tiredness.,5
+2665,46,Female,"Cold and runny nose, no fever.",5
+2666,79,Other,Itching due to dry skin.,5
+2667,29,Other,Itching due to dry skin.,5
+2668,50,Male,Itching due to dry skin.,5
+2669,90,Female,Slight headache and tiredness.,5
+2670,49,Female,Request for routine checkup.,5
+2671,88,Female,Itching due to dry skin.,5
+2672,7,Male,General fatigue and request for multivitamin.,5
+2673,26,Other,"Mild indigestion, no pain or vomiting.",5
+2674,29,Other,Soreness due to exercise,5
+2675,76,Other,"Vaccination request, no symptoms.",5
+2676,26,Other,"Menstrual cramps, bearable.",5
+2677,38,Female,Mild acne breakout.,5
+2678,88,Male,Mild acne breakout.,5
+2679,23,Other,Itching due to dry skin.,5
+2680,16,Female,Slight headache and tiredness.,5
+2681,55,Female,Itching due to dry skin.,5
+2682,34,Male,Mild acne breakout.,5
+2683,75,Female,Slight headache and tiredness.,5
+2684,43,Female,Mild acne breakout.,5
+2685,6,Male,Soreness due to exercise,5
+2686,77,Male,"Vaccination request, no symptoms.",5
+2687,85,Female,"Mild indigestion, no pain or vomiting.",5
+2688,74,Other,Soreness due to exercise,5
+2689,10,Other,Soreness due to exercise,5
+2690,68,Male,Mild acne breakout.,5
+2691,67,Male,Itching due to dry skin.,5
+2692,21,Female,Itching due to dry skin.,5
+2693,69,Female,"Cold and runny nose, no fever.",5
+2694,45,Male,"Menstrual cramps, bearable.",5
+2695,85,Female,Soreness due to exercise,5
+2696,47,Female,"Menstrual cramps, bearable.",5
+2697,80,Other,"Mild indigestion, no pain or vomiting.",5
+2698,72,Other,Slight headache and tiredness.,5
+2699,15,Other,Soreness due to exercise,5
+2700,58,Male,"Vaccination request, no symptoms.",5
+2701,80,Male,Slight headache and tiredness.,5
+2702,88,Female,Request for routine checkup.,5
+2703,15,Female,General fatigue and request for multivitamin.,5
+2704,70,Other,General fatigue and request for multivitamin.,5
+2705,4,Other,Soreness due to exercise,5
+2706,66,Other,"Mild indigestion, no pain or vomiting.",5
+2707,63,Male,General fatigue and request for multivitamin.,5
+2708,84,Male,Soreness due to exercise,5
+2709,66,Male,"Cold and runny nose, no fever.",5
+2710,22,Other,Itching due to dry skin.,5
+2711,1,Other,"Cold and runny nose, no fever.",5
+2712,27,Other,"Menstrual cramps, bearable.",5
+2713,88,Female,"Cold and runny nose, no fever.",5
+2714,27,Other,Request for routine checkup.,5
+2715,83,Male,Mild acne breakout.,5
+2716,4,Female,Soreness due to exercise,5
+2717,5,Male,"Cold and runny nose, no fever.",5
+2718,7,Male,General fatigue and request for multivitamin.,5
+2719,72,Male,"Vaccination request, no symptoms.",5
+2720,30,Female,Request for routine checkup.,5
+2721,50,Female,Request for routine checkup.,5
+2722,56,Female,Slight headache and tiredness.,5
+2723,50,Other,"Cold and runny nose, no fever.",5
+2724,69,Male,"Vaccination request, no symptoms.",5
+2725,9,Other,"Vaccination request, no symptoms.",5
+2726,6,Other,"Cold and runny nose, no fever.",5
+2727,46,Other,"Cold and runny nose, no fever.",5
+2728,38,Other,General fatigue and request for multivitamin.,5
+2729,78,Male,General fatigue and request for multivitamin.,5
+2730,57,Female,Request for routine checkup.,5
+2731,85,Male,"Mild indigestion, no pain or vomiting.",5
+2732,21,Other,"Menstrual cramps, bearable.",5
+2733,18,Other,Request for routine checkup.,5
+2734,70,Female,Mild acne breakout.,5
+2735,39,Other,Soreness due to exercise,5
+2736,2,Other,Itching due to dry skin.,5
+2737,19,Male,Slight headache and tiredness.,5
+2738,1,Other,"Vaccination request, no symptoms.",5
+2739,51,Other,Itching due to dry skin.,5
+2740,11,Female,"Menstrual cramps, bearable.",5
+2741,45,Male,Request for routine checkup.,5
+2742,83,Other,Mild acne breakout.,5
+2743,21,Male,"Menstrual cramps, bearable.",5
+2744,79,Female,"Menstrual cramps, bearable.",5
+2745,15,Male,"Vaccination request, no symptoms.",5
+2746,7,Other,"Mild indigestion, no pain or vomiting.",5
+2747,83,Other,"Cold and runny nose, no fever.",5
+2748,38,Other,"Cold and runny nose, no fever.",5
+2749,33,Male,"Menstrual cramps, bearable.",5
+2750,75,Female,Soreness due to exercise,5
