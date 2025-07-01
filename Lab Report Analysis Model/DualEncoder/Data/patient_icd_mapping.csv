@@ -1,0 +1,451 @@
+Patient ID,Disease Category,ICD Code,Diagnosis,Symptoms,Medications,Exposure History
+P0001,Diabetes,O24.419,Gestational Diabetes,"Frequent urination, Fatigue, Excessive thirst","Insulin, Metformin","Family history of diabetes, Obesity"
+P0002,Diabetes,E11.9,Type 2 Diabetes,"Fatigue, Excessive thirst, Frequent urination","Insulin, Metformin",Family history of diabetes
+P0003,Diabetes,R73.03,Prediabetes,"Fatigue, Frequent urination, Excessive thirst","Insulin, Metformin",Family history of diabetes
+P0004,Diabetes,E11.9,Type 2 Diabetes,"Frequent urination, Excessive thirst",Metformin,Obesity
+P0005,Diabetes,R73.03,Prediabetes,"Excessive thirst, Fatigue, Frequent urination","Insulin, Metformin","Obesity, Family history of diabetes"
+P0006,Diabetes,R73.03,Prediabetes,"Frequent urination, Fatigue",Metformin,"Obesity, Family history of diabetes"
+P0007,Diabetes,R73.03,Prediabetes,"Frequent urination, Fatigue, Excessive thirst","Metformin, Insulin",Obesity
+P0008,Diabetes,R73.03,Prediabetes,"Fatigue, Frequent urination","Metformin, Insulin","Obesity, Family history of diabetes"
+P0009,Diabetes,E10.9,Type 1 Diabetes,"Excessive thirst, Fatigue, Frequent urination",Metformin,Family history of diabetes
+P0010,Diabetes,R73.03,Prediabetes,"Excessive thirst, Frequent urination","Metformin, Insulin",Obesity
+P0011,Diabetes,E11.9,Type 2 Diabetes,"Frequent urination, Fatigue","Metformin, Insulin",Obesity
+P0012,Diabetes,E11.9,Type 2 Diabetes,"Excessive thirst, Fatigue, Frequent urination",Insulin,Obesity
+P0013,Diabetes,E10.9,Type 1 Diabetes,"Excessive thirst, Frequent urination, Fatigue",Metformin,"Family history of diabetes, Obesity"
+P0014,Diabetes,O24.419,Gestational Diabetes,"Frequent urination, Excessive thirst, Fatigue","Metformin, Insulin",Obesity
+P0015,Diabetes,E10.9,Type 1 Diabetes,"Frequent urination, Fatigue, Excessive thirst",Metformin,Family history of diabetes
+P0016,Diabetes,R73.03,Prediabetes,"Excessive thirst, Frequent urination, Fatigue","Insulin, Metformin",Family history of diabetes
+P0017,Diabetes,O24.419,Gestational Diabetes,"Fatigue, Excessive thirst, Frequent urination","Insulin, Metformin","Obesity, Family history of diabetes"
+P0018,Diabetes,O24.419,Gestational Diabetes,"Excessive thirst, Frequent urination, Fatigue","Metformin, Insulin",Obesity
+P0019,Diabetes,R73.03,Prediabetes,"Fatigue, Frequent urination, Excessive thirst","Metformin, Insulin","Family history of diabetes, Obesity"
+P0020,Diabetes,R73.03,Prediabetes,"Fatigue, Frequent urination","Metformin, Insulin","Obesity, Family history of diabetes"
+P0021,Diabetes,O24.419,Gestational Diabetes,"Excessive thirst, Frequent urination, Fatigue","Insulin, Metformin",Obesity
+P0022,Diabetes,E11.9,Type 2 Diabetes,"Frequent urination, Excessive thirst",Insulin,Family history of diabetes
+P0023,Diabetes,E11.9,Type 2 Diabetes,"Excessive thirst, Frequent urination","Metformin, Insulin","Family history of diabetes, Obesity"
+P0024,Diabetes,O24.419,Gestational Diabetes,"Frequent urination, Excessive thirst, Fatigue","Insulin, Metformin","Family history of diabetes, Obesity"
+P0025,Diabetes,E11.9,Type 2 Diabetes,"Fatigue, Frequent urination, Excessive thirst","Insulin, Metformin","Obesity, Family history of diabetes"
+P0026,Diabetes,E11.9,Type 2 Diabetes,"Fatigue, Excessive thirst, Frequent urination",Insulin,Family history of diabetes
+P0027,Diabetes,R73.03,Prediabetes,"Excessive thirst, Fatigue","Metformin, Insulin",Obesity
+P0028,Diabetes,R73.03,Prediabetes,"Frequent urination, Fatigue, Excessive thirst","Insulin, Metformin",Family history of diabetes
+P0029,Diabetes,R73.03,Prediabetes,"Excessive thirst, Fatigue, Frequent urination",Insulin,Obesity
+P0030,Diabetes,E10.9,Type 1 Diabetes,"Excessive thirst, Frequent urination, Fatigue","Insulin, Metformin",Family history of diabetes
+P0031,Diabetes,O24.419,Gestational Diabetes,"Frequent urination, Fatigue, Excessive thirst",Insulin,Family history of diabetes
+P0032,Diabetes,R73.03,Prediabetes,"Frequent urination, Excessive thirst","Metformin, Insulin",Family history of diabetes
+P0033,Diabetes,E11.9,Type 2 Diabetes,"Fatigue, Excessive thirst",Metformin,"Obesity, Family history of diabetes"
+P0034,Diabetes,R73.03,Prediabetes,"Excessive thirst, Fatigue, Frequent urination","Metformin, Insulin","Obesity, Family history of diabetes"
+P0035,Diabetes,O24.419,Gestational Diabetes,"Excessive thirst, Frequent urination",Insulin,"Family history of diabetes, Obesity"
+P0036,Diabetes,E11.9,Type 2 Diabetes,"Excessive thirst, Frequent urination, Fatigue",Insulin,"Family history of diabetes, Obesity"
+P0037,Diabetes,E11.9,Type 2 Diabetes,"Fatigue, Frequent urination","Metformin, Insulin","Obesity, Family history of diabetes"
+P0038,Diabetes,E11.9,Type 2 Diabetes,"Frequent urination, Excessive thirst, Fatigue",Metformin,Family history of diabetes
+P0039,Diabetes,R73.03,Prediabetes,"Fatigue, Frequent urination","Insulin, Metformin",Family history of diabetes
+P0040,Diabetes,E10.9,Type 1 Diabetes,"Fatigue, Excessive thirst, Frequent urination",Insulin,Obesity
+P0041,Diabetes,E10.9,Type 1 Diabetes,"Fatigue, Excessive thirst, Frequent urination",Metformin,Obesity
+P0042,Diabetes,R73.03,Prediabetes,"Excessive thirst, Frequent urination",Metformin,Family history of diabetes
+P0043,Diabetes,E10.9,Type 1 Diabetes,"Excessive thirst, Fatigue, Frequent urination","Insulin, Metformin",Family history of diabetes
+P0044,Diabetes,E11.9,Type 2 Diabetes,"Fatigue, Frequent urination","Insulin, Metformin",Obesity
+P0045,Diabetes,O24.419,Gestational Diabetes,"Fatigue, Excessive thirst, Frequent urination",Insulin,"Family history of diabetes, Obesity"
+P0046,Diabetes,O24.419,Gestational Diabetes,"Fatigue, Excessive thirst, Frequent urination","Metformin, Insulin",Family history of diabetes
+P0047,Diabetes,E10.9,Type 1 Diabetes,"Frequent urination, Excessive thirst, Fatigue",Metformin,Obesity
+P0048,Diabetes,R73.03,Prediabetes,"Frequent urination, Fatigue",Metformin,"Obesity, Family history of diabetes"
+P0049,Diabetes,E10.9,Type 1 Diabetes,"Frequent urination, Fatigue, Excessive thirst","Insulin, Metformin",Family history of diabetes
+P0050,Diabetes,E10.9,Type 1 Diabetes,"Excessive thirst, Frequent urination, Fatigue",Insulin,Obesity
+P0051,Diabetes,R73.03,Prediabetes,"Frequent urination, Fatigue","Metformin, Insulin","Family history of diabetes, Obesity"
+P0052,Diabetes,O24.419,Gestational Diabetes,"Fatigue, Frequent urination","Insulin, Metformin","Obesity, Family history of diabetes"
+P0053,Diabetes,E11.9,Type 2 Diabetes,"Frequent urination, Fatigue","Metformin, Insulin",Family history of diabetes
+P0054,Diabetes,O24.419,Gestational Diabetes,"Excessive thirst, Fatigue, Frequent urination",Insulin,"Obesity, Family history of diabetes"
+P0055,Diabetes,E10.9,Type 1 Diabetes,"Fatigue, Excessive thirst","Metformin, Insulin","Obesity, Family history of diabetes"
+P0056,Diabetes,O24.419,Gestational Diabetes,"Excessive thirst, Frequent urination, Fatigue",Insulin,Obesity
+P0057,Diabetes,E11.9,Type 2 Diabetes,"Excessive thirst, Frequent urination, Fatigue",Insulin,Family history of diabetes
+P0058,Diabetes,E11.9,Type 2 Diabetes,"Frequent urination, Fatigue","Insulin, Metformin","Obesity, Family history of diabetes"
+P0059,Diabetes,E10.9,Type 1 Diabetes,"Fatigue, Frequent urination",Metformin,Family history of diabetes
+P0060,Diabetes,E11.9,Type 2 Diabetes,"Frequent urination, Fatigue","Insulin, Metformin",Obesity
+P0061,Diabetes,E11.9,Type 2 Diabetes,"Fatigue, Frequent urination, Excessive thirst","Metformin, Insulin","Family history of diabetes, Obesity"
+P0062,Diabetes,E10.9,Type 1 Diabetes,"Fatigue, Excessive thirst","Metformin, Insulin",Family history of diabetes
+P0063,Diabetes,E11.9,Type 2 Diabetes,"Fatigue, Excessive thirst",Metformin,"Family history of diabetes, Obesity"
+P0064,Diabetes,R73.03,Prediabetes,"Frequent urination, Fatigue",Metformin,"Obesity, Family history of diabetes"
+P0065,Diabetes,E10.9,Type 1 Diabetes,"Frequent urination, Excessive thirst, Fatigue",Insulin,"Obesity, Family history of diabetes"
+P0066,Diabetes,E11.9,Type 2 Diabetes,"Excessive thirst, Frequent urination, Fatigue",Metformin,Family history of diabetes
+P0067,Diabetes,O24.419,Gestational Diabetes,"Frequent urination, Excessive thirst, Fatigue",Insulin,Obesity
+P0068,Diabetes,E10.9,Type 1 Diabetes,"Frequent urination, Excessive thirst, Fatigue","Insulin, Metformin",Obesity
+P0069,Diabetes,E11.9,Type 2 Diabetes,"Frequent urination, Fatigue, Excessive thirst","Insulin, Metformin","Family history of diabetes, Obesity"
+P0070,Diabetes,E11.9,Type 2 Diabetes,"Fatigue, Excessive thirst, Frequent urination",Insulin,Family history of diabetes
+P0071,Diabetes,E10.9,Type 1 Diabetes,"Frequent urination, Fatigue, Excessive thirst",Insulin,"Obesity, Family history of diabetes"
+P0072,Diabetes,E11.9,Type 2 Diabetes,"Excessive thirst, Fatigue",Insulin,Obesity
+P0073,Diabetes,E11.9,Type 2 Diabetes,"Excessive thirst, Frequent urination","Insulin, Metformin","Obesity, Family history of diabetes"
+P0074,Diabetes,E10.9,Type 1 Diabetes,"Fatigue, Frequent urination","Insulin, Metformin",Obesity
+P0075,Diabetes,O24.419,Gestational Diabetes,"Excessive thirst, Fatigue, Frequent urination","Insulin, Metformin",Family history of diabetes
+P0076,Diabetes,R73.03,Prediabetes,"Excessive thirst, Frequent urination, Fatigue","Metformin, Insulin",Obesity
+P0077,Diabetes,R73.03,Prediabetes,"Fatigue, Frequent urination","Metformin, Insulin",Family history of diabetes
+P0078,Diabetes,O24.419,Gestational Diabetes,"Frequent urination, Fatigue, Excessive thirst","Insulin, Metformin","Family history of diabetes, Obesity"
+P0079,Diabetes,R73.03,Prediabetes,"Frequent urination, Excessive thirst, Fatigue","Insulin, Metformin","Family history of diabetes, Obesity"
+P0080,Diabetes,O24.419,Gestational Diabetes,"Fatigue, Excessive thirst, Frequent urination",Insulin,Family history of diabetes
+P0081,Diabetes,E10.9,Type 1 Diabetes,"Fatigue, Excessive thirst",Insulin,"Family history of diabetes, Obesity"
+P0082,Diabetes,E10.9,Type 1 Diabetes,"Fatigue, Excessive thirst, Frequent urination",Insulin,"Family history of diabetes, Obesity"
+P0083,Diabetes,O24.419,Gestational Diabetes,"Excessive thirst, Fatigue","Insulin, Metformin",Obesity
+P0084,Diabetes,E11.9,Type 2 Diabetes,"Fatigue, Excessive thirst, Frequent urination",Insulin,Family history of diabetes
+P0085,Diabetes,E10.9,Type 1 Diabetes,"Frequent urination, Fatigue","Insulin, Metformin","Obesity, Family history of diabetes"
+P0086,Diabetes,E11.9,Type 2 Diabetes,"Excessive thirst, Frequent urination, Fatigue","Metformin, Insulin",Obesity
+P0087,Diabetes,E11.9,Type 2 Diabetes,"Frequent urination, Excessive thirst",Insulin,"Obesity, Family history of diabetes"
+P0088,Diabetes,E11.9,Type 2 Diabetes,"Frequent urination, Excessive thirst, Fatigue",Insulin,Obesity
+P0089,Diabetes,R73.03,Prediabetes,"Fatigue, Excessive thirst","Metformin, Insulin",Obesity
+P0090,Diabetes,E10.9,Type 1 Diabetes,"Fatigue, Frequent urination, Excessive thirst",Metformin,Obesity
+P0091,Diabetes,E11.9,Type 2 Diabetes,"Excessive thirst, Fatigue","Metformin, Insulin",Family history of diabetes
+P0092,Diabetes,E10.9,Type 1 Diabetes,"Frequent urination, Excessive thirst, Fatigue",Insulin,Obesity
+P0093,Diabetes,O24.419,Gestational Diabetes,"Fatigue, Frequent urination",Metformin,Family history of diabetes
+P0094,Diabetes,R73.03,Prediabetes,"Fatigue, Excessive thirst","Metformin, Insulin","Family history of diabetes, Obesity"
+P0095,Diabetes,E11.9,Type 2 Diabetes,"Frequent urination, Fatigue",Insulin,"Obesity, Family history of diabetes"
+P0096,Diabetes,E10.9,Type 1 Diabetes,"Frequent urination, Fatigue, Excessive thirst",Metformin,"Obesity, Family history of diabetes"
+P0097,Diabetes,O24.419,Gestational Diabetes,"Fatigue, Excessive thirst","Insulin, Metformin",Family history of diabetes
+P0098,Diabetes,E11.9,Type 2 Diabetes,"Fatigue, Excessive thirst","Metformin, Insulin",Family history of diabetes
+P0099,Diabetes,E10.9,Type 1 Diabetes,"Excessive thirst, Frequent urination","Insulin, Metformin",Obesity
+P0100,Diabetes,R73.03,Prediabetes,"Excessive thirst, Fatigue","Metformin, Insulin","Obesity, Family history of diabetes"
+P0101,Liver Disease,DB95,Liver Cirrhosis,"Dark urine, Jaundice, Abdominal pain","Ursodeoxycholic acid, Antiviral therapy",Alcohol consumption
+P0102,Liver Disease,1E50.1,Acute Hepatitis B,"Abdominal pain, Jaundice","Antiviral therapy, Ursodeoxycholic acid",Alcohol consumption
+P0103,Liver Disease,EC30,Non-Alcoholic Fatty Liver Disease,"Jaundice, Abdominal pain, Dark urine","Antiviral therapy, Ursodeoxycholic acid",Hepatitis infection
+P0104,Liver Disease,1E50.0,Acute Hepatitis A,"Jaundice, Abdominal pain",Ursodeoxycholic acid,Hepatitis infection
+P0105,Liver Disease,DB96,Chronic Hepatitis,"Jaundice, Abdominal pain, Dark urine",Ursodeoxycholic acid,Hepatitis infection
+P0106,Liver Disease,DB96,Chronic Hepatitis,"Dark urine, Abdominal pain, Jaundice",Ursodeoxycholic acid,"Hepatitis infection, Alcohol consumption"
+P0107,Liver Disease,1E50.0,Acute Hepatitis A,"Dark urine, Jaundice, Abdominal pain",Antiviral therapy,Alcohol consumption
+P0108,Liver Disease,1E50.0,Acute Hepatitis A,"Abdominal pain, Dark urine","Ursodeoxycholic acid, Antiviral therapy",Hepatitis infection
+P0109,Liver Disease,DB95,Liver Cirrhosis,"Jaundice, Dark urine, Abdominal pain",Antiviral therapy,Alcohol consumption
+P0110,Liver Disease,EC30,Non-Alcoholic Fatty Liver Disease,"Dark urine, Abdominal pain","Ursodeoxycholic acid, Antiviral therapy","Hepatitis infection, Alcohol consumption"
+P0111,Liver Disease,1E50.0,Acute Hepatitis A,"Abdominal pain, Jaundice","Ursodeoxycholic acid, Antiviral therapy","Hepatitis infection, Alcohol consumption"
+P0112,Liver Disease,1E50.1,Acute Hepatitis B,"Dark urine, Abdominal pain","Ursodeoxycholic acid, Antiviral therapy","Hepatitis infection, Alcohol consumption"
+P0113,Liver Disease,1E50.0,Acute Hepatitis A,"Abdominal pain, Jaundice","Antiviral therapy, Ursodeoxycholic acid","Alcohol consumption, Hepatitis infection"
+P0114,Liver Disease,1E50.0,Acute Hepatitis A,"Jaundice, Dark urine","Ursodeoxycholic acid, Antiviral therapy",Alcohol consumption
+P0115,Liver Disease,1E50.1,Acute Hepatitis B,"Abdominal pain, Jaundice","Ursodeoxycholic acid, Antiviral therapy",Alcohol consumption
+P0116,Liver Disease,EC30,Non-Alcoholic Fatty Liver Disease,"Abdominal pain, Dark urine",Ursodeoxycholic acid,Alcohol consumption
+P0117,Liver Disease,DB95,Liver Cirrhosis,"Abdominal pain, Dark urine, Jaundice","Ursodeoxycholic acid, Antiviral therapy",Hepatitis infection
+P0118,Liver Disease,1E50.1,Acute Hepatitis B,"Abdominal pain, Dark urine, Jaundice",Antiviral therapy,Hepatitis infection
+P0119,Liver Disease,DB96,Chronic Hepatitis,"Dark urine, Abdominal pain","Ursodeoxycholic acid, Antiviral therapy",Alcohol consumption
+P0120,Liver Disease,DB95,Liver Cirrhosis,"Jaundice, Dark urine, Abdominal pain","Ursodeoxycholic acid, Antiviral therapy",Hepatitis infection
+P0121,Liver Disease,1E50.0,Acute Hepatitis A,"Dark urine, Abdominal pain, Jaundice","Antiviral therapy, Ursodeoxycholic acid",Hepatitis infection
+P0122,Liver Disease,1E50.0,Acute Hepatitis A,"Dark urine, Abdominal pain",Ursodeoxycholic acid,"Hepatitis infection, Alcohol consumption"
+P0123,Liver Disease,DB96,Chronic Hepatitis,"Dark urine, Abdominal pain",Ursodeoxycholic acid,"Alcohol consumption, Hepatitis infection"
+P0124,Liver Disease,EC30,Non-Alcoholic Fatty Liver Disease,"Dark urine, Abdominal pain, Jaundice","Antiviral therapy, Ursodeoxycholic acid","Alcohol consumption, Hepatitis infection"
+P0125,Liver Disease,DB96,Chronic Hepatitis,"Jaundice, Abdominal pain",Ursodeoxycholic acid,Hepatitis infection
+P0126,Liver Disease,1E50.0,Acute Hepatitis A,"Dark urine, Jaundice, Abdominal pain","Ursodeoxycholic acid, Antiviral therapy","Alcohol consumption, Hepatitis infection"
+P0127,Liver Disease,DB96,Chronic Hepatitis,"Jaundice, Dark urine, Abdominal pain",Antiviral therapy,"Alcohol consumption, Hepatitis infection"
+P0128,Liver Disease,EC30,Non-Alcoholic Fatty Liver Disease,"Dark urine, Jaundice",Antiviral therapy,"Hepatitis infection, Alcohol consumption"
+P0129,Liver Disease,DB96,Chronic Hepatitis,"Jaundice, Dark urine, Abdominal pain",Antiviral therapy,"Alcohol consumption, Hepatitis infection"
+P0130,Liver Disease,1E50.0,Acute Hepatitis A,"Dark urine, Abdominal pain","Antiviral therapy, Ursodeoxycholic acid",Hepatitis infection
+P0131,Liver Disease,DB96,Chronic Hepatitis,"Abdominal pain, Jaundice, Dark urine",Ursodeoxycholic acid,"Hepatitis infection, Alcohol consumption"
+P0132,Liver Disease,EC30,Non-Alcoholic Fatty Liver Disease,"Dark urine, Abdominal pain, Jaundice",Antiviral therapy,"Hepatitis infection, Alcohol consumption"
+P0133,Liver Disease,DB96,Chronic Hepatitis,"Jaundice, Abdominal pain",Ursodeoxycholic acid,"Alcohol consumption, Hepatitis infection"
+P0134,Liver Disease,EC30,Non-Alcoholic Fatty Liver Disease,"Dark urine, Abdominal pain, Jaundice","Antiviral therapy, Ursodeoxycholic acid","Hepatitis infection, Alcohol consumption"
+P0135,Liver Disease,DB96,Chronic Hepatitis,"Dark urine, Jaundice","Ursodeoxycholic acid, Antiviral therapy",Alcohol consumption
+P0136,Liver Disease,DB96,Chronic Hepatitis,"Jaundice, Dark urine",Antiviral therapy,Alcohol consumption
+P0137,Liver Disease,1E50.1,Acute Hepatitis B,"Dark urine, Jaundice, Abdominal pain","Ursodeoxycholic acid, Antiviral therapy",Hepatitis infection
+P0138,Liver Disease,EC30,Non-Alcoholic Fatty Liver Disease,"Abdominal pain, Dark urine",Antiviral therapy,"Hepatitis infection, Alcohol consumption"
+P0139,Liver Disease,DB95,Liver Cirrhosis,"Dark urine, Jaundice",Ursodeoxycholic acid,Hepatitis infection
+P0140,Liver Disease,EC30,Non-Alcoholic Fatty Liver Disease,"Jaundice, Dark urine",Antiviral therapy,"Alcohol consumption, Hepatitis infection"
+P0141,Liver Disease,DB96,Chronic Hepatitis,"Jaundice, Abdominal pain",Antiviral therapy,"Hepatitis infection, Alcohol consumption"
+P0142,Liver Disease,DB95,Liver Cirrhosis,"Jaundice, Abdominal pain, Dark urine","Ursodeoxycholic acid, Antiviral therapy","Hepatitis infection, Alcohol consumption"
+P0143,Liver Disease,1E50.0,Acute Hepatitis A,"Dark urine, Abdominal pain",Ursodeoxycholic acid,Alcohol consumption
+P0144,Liver Disease,1E50.0,Acute Hepatitis A,"Dark urine, Abdominal pain, Jaundice","Antiviral therapy, Ursodeoxycholic acid",Hepatitis infection
+P0145,Liver Disease,EC30,Non-Alcoholic Fatty Liver Disease,"Abdominal pain, Dark urine","Ursodeoxycholic acid, Antiviral therapy",Hepatitis infection
+P0146,Liver Disease,DB96,Chronic Hepatitis,"Dark urine, Abdominal pain, Jaundice","Ursodeoxycholic acid, Antiviral therapy",Hepatitis infection
+P0147,Liver Disease,1E50.0,Acute Hepatitis A,"Abdominal pain, Dark urine, Jaundice",Ursodeoxycholic acid,"Alcohol consumption, Hepatitis infection"
+P0148,Liver Disease,DB96,Chronic Hepatitis,"Jaundice, Abdominal pain","Ursodeoxycholic acid, Antiviral therapy","Alcohol consumption, Hepatitis infection"
+P0149,Liver Disease,DB95,Liver Cirrhosis,"Jaundice, Dark urine",Antiviral therapy,Hepatitis infection
+P0150,Liver Disease,DB95,Liver Cirrhosis,"Dark urine, Jaundice","Antiviral therapy, Ursodeoxycholic acid",Hepatitis infection
+P0151,Liver Disease,EC30,Non-Alcoholic Fatty Liver Disease,"Dark urine, Jaundice, Abdominal pain","Antiviral therapy, Ursodeoxycholic acid",Hepatitis infection
+P0152,Liver Disease,1E50.1,Acute Hepatitis B,"Jaundice, Abdominal pain, Dark urine",Ursodeoxycholic acid,"Hepatitis infection, Alcohol consumption"
+P0153,Liver Disease,1E50.1,Acute Hepatitis B,"Abdominal pain, Dark urine","Antiviral therapy, Ursodeoxycholic acid",Hepatitis infection
+P0154,Liver Disease,1E50.1,Acute Hepatitis B,"Abdominal pain, Jaundice, Dark urine",Antiviral therapy,Hepatitis infection
+P0155,Liver Disease,1E50.1,Acute Hepatitis B,"Abdominal pain, Jaundice",Antiviral therapy,"Hepatitis infection, Alcohol consumption"
+P0156,Liver Disease,1E50.1,Acute Hepatitis B,"Dark urine, Jaundice","Antiviral therapy, Ursodeoxycholic acid",Alcohol consumption
+P0157,Liver Disease,DB96,Chronic Hepatitis,"Dark urine, Jaundice, Abdominal pain",Ursodeoxycholic acid,"Hepatitis infection, Alcohol consumption"
+P0158,Liver Disease,1E50.1,Acute Hepatitis B,"Abdominal pain, Jaundice, Dark urine","Ursodeoxycholic acid, Antiviral therapy","Alcohol consumption, Hepatitis infection"
+P0159,Liver Disease,1E50.0,Acute Hepatitis A,"Abdominal pain, Jaundice","Ursodeoxycholic acid, Antiviral therapy","Hepatitis infection, Alcohol consumption"
+P0160,Liver Disease,DB96,Chronic Hepatitis,"Dark urine, Abdominal pain","Antiviral therapy, Ursodeoxycholic acid","Alcohol consumption, Hepatitis infection"
+P0161,Liver Disease,1E50.0,Acute Hepatitis A,"Jaundice, Dark urine, Abdominal pain",Ursodeoxycholic acid,"Hepatitis infection, Alcohol consumption"
+P0162,Liver Disease,EC30,Non-Alcoholic Fatty Liver Disease,"Dark urine, Abdominal pain, Jaundice",Antiviral therapy,Hepatitis infection
+P0163,Liver Disease,1E50.1,Acute Hepatitis B,"Dark urine, Abdominal pain, Jaundice","Antiviral therapy, Ursodeoxycholic acid","Alcohol consumption, Hepatitis infection"
+P0164,Liver Disease,EC30,Non-Alcoholic Fatty Liver Disease,"Dark urine, Jaundice, Abdominal pain","Ursodeoxycholic acid, Antiviral therapy","Alcohol consumption, Hepatitis infection"
+P0165,Liver Disease,1E50.0,Acute Hepatitis A,"Abdominal pain, Jaundice, Dark urine",Ursodeoxycholic acid,"Hepatitis infection, Alcohol consumption"
+P0166,Liver Disease,1E50.0,Acute Hepatitis A,"Jaundice, Abdominal pain",Antiviral therapy,"Alcohol consumption, Hepatitis infection"
+P0167,Liver Disease,1E50.1,Acute Hepatitis B,"Abdominal pain, Jaundice","Ursodeoxycholic acid, Antiviral therapy","Alcohol consumption, Hepatitis infection"
+P0168,Liver Disease,EC30,Non-Alcoholic Fatty Liver Disease,"Dark urine, Jaundice, Abdominal pain",Antiviral therapy,Hepatitis infection
+P0169,Liver Disease,1E50.0,Acute Hepatitis A,"Abdominal pain, Jaundice, Dark urine",Antiviral therapy,"Hepatitis infection, Alcohol consumption"
+P0170,Liver Disease,1E50.0,Acute Hepatitis A,"Jaundice, Abdominal pain, Dark urine","Ursodeoxycholic acid, Antiviral therapy",Alcohol consumption
+P0171,Liver Disease,EC30,Non-Alcoholic Fatty Liver Disease,"Jaundice, Abdominal pain, Dark urine","Ursodeoxycholic acid, Antiviral therapy","Alcohol consumption, Hepatitis infection"
+P0172,Liver Disease,EC30,Non-Alcoholic Fatty Liver Disease,"Abdominal pain, Dark urine, Jaundice","Ursodeoxycholic acid, Antiviral therapy",Hepatitis infection
+P0173,Liver Disease,1E50.1,Acute Hepatitis B,"Dark urine, Jaundice, Abdominal pain",Ursodeoxycholic acid,"Alcohol consumption, Hepatitis infection"
+P0174,Liver Disease,DB96,Chronic Hepatitis,"Jaundice, Dark urine, Abdominal pain",Ursodeoxycholic acid,Alcohol consumption
+P0175,Liver Disease,1E50.1,Acute Hepatitis B,"Jaundice, Dark urine, Abdominal pain","Ursodeoxycholic acid, Antiviral therapy",Hepatitis infection
+P0176,Liver Disease,EC30,Non-Alcoholic Fatty Liver Disease,"Dark urine, Abdominal pain","Ursodeoxycholic acid, Antiviral therapy",Hepatitis infection
+P0177,Liver Disease,EC30,Non-Alcoholic Fatty Liver Disease,"Dark urine, Jaundice, Abdominal pain","Ursodeoxycholic acid, Antiviral therapy",Hepatitis infection
+P0178,Liver Disease,1E50.1,Acute Hepatitis B,"Jaundice, Dark urine",Ursodeoxycholic acid,Alcohol consumption
+P0179,Liver Disease,DB95,Liver Cirrhosis,"Abdominal pain, Jaundice","Antiviral therapy, Ursodeoxycholic acid","Hepatitis infection, Alcohol consumption"
+P0180,Liver Disease,DB96,Chronic Hepatitis,"Dark urine, Jaundice","Ursodeoxycholic acid, Antiviral therapy","Alcohol consumption, Hepatitis infection"
+P0181,Liver Disease,DB96,Chronic Hepatitis,"Abdominal pain, Dark urine, Jaundice","Antiviral therapy, Ursodeoxycholic acid",Alcohol consumption
+P0182,Liver Disease,1E50.0,Acute Hepatitis A,"Jaundice, Dark urine, Abdominal pain",Ursodeoxycholic acid,"Hepatitis infection, Alcohol consumption"
+P0183,Liver Disease,DB96,Chronic Hepatitis,"Abdominal pain, Jaundice",Antiviral therapy,"Hepatitis infection, Alcohol consumption"
+P0184,Liver Disease,1E50.1,Acute Hepatitis B,"Jaundice, Abdominal pain","Antiviral therapy, Ursodeoxycholic acid",Alcohol consumption
+P0185,Liver Disease,DB96,Chronic Hepatitis,"Jaundice, Dark urine, Abdominal pain","Antiviral therapy, Ursodeoxycholic acid","Hepatitis infection, Alcohol consumption"
+P0186,Liver Disease,DB96,Chronic Hepatitis,"Jaundice, Abdominal pain, Dark urine","Ursodeoxycholic acid, Antiviral therapy",Alcohol consumption
+P0187,Liver Disease,DB95,Liver Cirrhosis,"Jaundice, Dark urine",Ursodeoxycholic acid,Alcohol consumption
+P0188,Liver Disease,DB96,Chronic Hepatitis,"Dark urine, Jaundice",Ursodeoxycholic acid,"Hepatitis infection, Alcohol consumption"
+P0189,Liver Disease,DB95,Liver Cirrhosis,"Abdominal pain, Dark urine, Jaundice",Ursodeoxycholic acid,"Alcohol consumption, Hepatitis infection"
+P0190,Liver Disease,1E50.1,Acute Hepatitis B,"Jaundice, Dark urine, Abdominal pain","Antiviral therapy, Ursodeoxycholic acid","Hepatitis infection, Alcohol consumption"
+P0191,Liver Disease,DB95,Liver Cirrhosis,"Jaundice, Abdominal pain","Antiviral therapy, Ursodeoxycholic acid","Alcohol consumption, Hepatitis infection"
+P0192,Liver Disease,1E50.0,Acute Hepatitis A,"Dark urine, Abdominal pain",Ursodeoxycholic acid,Hepatitis infection
+P0193,Liver Disease,EC30,Non-Alcoholic Fatty Liver Disease,"Dark urine, Jaundice, Abdominal pain",Ursodeoxycholic acid,Hepatitis infection
+P0194,Liver Disease,EC30,Non-Alcoholic Fatty Liver Disease,"Dark urine, Abdominal pain",Antiviral therapy,"Hepatitis infection, Alcohol consumption"
+P0195,Liver Disease,DB95,Liver Cirrhosis,"Dark urine, Jaundice, Abdominal pain",Ursodeoxycholic acid,"Alcohol consumption, Hepatitis infection"
+P0196,Liver Disease,DB95,Liver Cirrhosis,"Jaundice, Dark urine",Ursodeoxycholic acid,Alcohol consumption
+P0197,Liver Disease,1E50.1,Acute Hepatitis B,"Jaundice, Dark urine, Abdominal pain",Ursodeoxycholic acid,"Hepatitis infection, Alcohol consumption"
+P0198,Liver Disease,DB96,Chronic Hepatitis,"Abdominal pain, Jaundice","Antiviral therapy, Ursodeoxycholic acid",Alcohol consumption
+P0199,Liver Disease,1E50.1,Acute Hepatitis B,"Jaundice, Dark urine, Abdominal pain","Antiviral therapy, Ursodeoxycholic acid","Alcohol consumption, Hepatitis infection"
+P0200,Liver Disease,DB96,Chronic Hepatitis,"Abdominal pain, Jaundice","Ursodeoxycholic acid, Antiviral therapy","Hepatitis infection, Alcohol consumption"
+P0201,Heart Disease,BA43,Angina Pectoris,"Shortness of breath, Chest pain","Aspirin, Beta-blockers","High cholesterol, Smoking"
+P0202,Heart Disease,BA43,Angina Pectoris,"Chest pain, Irregular heartbeat, Shortness of breath",Aspirin,High cholesterol
+P0203,Heart Disease,BA00,Hypertensive Heart Disease,"Shortness of breath, Irregular heartbeat, Chest pain","Aspirin, Beta-blockers",High cholesterol
+P0204,Heart Disease,BA41,Acute Myocardial Infarction,"Irregular heartbeat, Chest pain, Shortness of breath","Aspirin, Beta-blockers",Smoking
+P0205,Heart Disease,BA43,Angina Pectoris,"Irregular heartbeat, Shortness of breath",Aspirin,"Smoking, High cholesterol"
+P0206,Heart Disease,BA43,Angina Pectoris,"Chest pain, Shortness of breath, Irregular heartbeat","Aspirin, Beta-blockers","High cholesterol, Smoking"
+P0207,Heart Disease,BA41,Acute Myocardial Infarction,"Shortness of breath, Chest pain, Irregular heartbeat","Aspirin, Beta-blockers","High cholesterol, Smoking"
+P0208,Heart Disease,BA00,Hypertensive Heart Disease,"Shortness of breath, Irregular heartbeat","Beta-blockers, Aspirin",Smoking
+P0209,Heart Disease,BA43,Angina Pectoris,"Chest pain, Irregular heartbeat","Beta-blockers, Aspirin","High cholesterol, Smoking"
+P0210,Heart Disease,BA43,Angina Pectoris,"Irregular heartbeat, Chest pain","Aspirin, Beta-blockers","High cholesterol, Smoking"
+P0211,Heart Disease,BA41,Acute Myocardial Infarction,"Irregular heartbeat, Shortness of breath",Aspirin,Smoking
+P0212,Heart Disease,BA41,Acute Myocardial Infarction,"Chest pain, Shortness of breath, Irregular heartbeat",Aspirin,"High cholesterol, Smoking"
+P0213,Heart Disease,BA00,Hypertensive Heart Disease,"Irregular heartbeat, Chest pain, Shortness of breath",Beta-blockers,High cholesterol
+P0214,Heart Disease,BA43,Angina Pectoris,"Chest pain, Shortness of breath","Beta-blockers, Aspirin","High cholesterol, Smoking"
+P0215,Heart Disease,BA00,Hypertensive Heart Disease,"Shortness of breath, Irregular heartbeat, Chest pain",Aspirin,High cholesterol
+P0216,Heart Disease,BA00,Hypertensive Heart Disease,"Shortness of breath, Chest pain",Beta-blockers,Smoking
+P0217,Heart Disease,BA41,Acute Myocardial Infarction,"Shortness of breath, Irregular heartbeat",Aspirin,Smoking
+P0218,Heart Disease,BA00,Hypertensive Heart Disease,"Chest pain, Irregular heartbeat","Aspirin, Beta-blockers","High cholesterol, Smoking"
+P0219,Heart Disease,BA41,Acute Myocardial Infarction,"Chest pain, Shortness of breath","Aspirin, Beta-blockers","High cholesterol, Smoking"
+P0220,Heart Disease,BC82,Congestive Heart Failure,"Irregular heartbeat, Shortness of breath, Chest pain",Aspirin,High cholesterol
+P0221,Heart Disease,BA40,Ischemic Heart Disease,"Irregular heartbeat, Chest pain, Shortness of breath",Beta-blockers,"Smoking, High cholesterol"
+P0222,Heart Disease,BA41,Acute Myocardial Infarction,"Irregular heartbeat, Shortness of breath","Aspirin, Beta-blockers",High cholesterol
+P0223,Heart Disease,BC82,Congestive Heart Failure,"Chest pain, Irregular heartbeat",Aspirin,"Smoking, High cholesterol"
+P0224,Heart Disease,BA40,Ischemic Heart Disease,"Chest pain, Irregular heartbeat","Beta-blockers, Aspirin",High cholesterol
+P0225,Heart Disease,BC82,Congestive Heart Failure,"Shortness of breath, Chest pain",Beta-blockers,"Smoking, High cholesterol"
+P0226,Heart Disease,BC82,Congestive Heart Failure,"Irregular heartbeat, Chest pain","Aspirin, Beta-blockers",High cholesterol
+P0227,Heart Disease,BA40,Ischemic Heart Disease,"Chest pain, Shortness of breath, Irregular heartbeat","Beta-blockers, Aspirin",High cholesterol
+P0228,Heart Disease,BA43,Angina Pectoris,"Chest pain, Irregular heartbeat",Aspirin,Smoking
+P0229,Heart Disease,BA43,Angina Pectoris,"Irregular heartbeat, Chest pain",Beta-blockers,High cholesterol
+P0230,Heart Disease,BA40,Ischemic Heart Disease,"Irregular heartbeat, Shortness of breath, Chest pain","Beta-blockers, Aspirin",High cholesterol
+P0231,Heart Disease,BA00,Hypertensive Heart Disease,"Irregular heartbeat, Chest pain",Beta-blockers,"Smoking, High cholesterol"
+P0232,Heart Disease,BA40,Ischemic Heart Disease,"Shortness of breath, Irregular heartbeat, Chest pain",Aspirin,Smoking
+P0233,Heart Disease,BA00,Hypertensive Heart Disease,"Irregular heartbeat, Shortness of breath, Chest pain",Beta-blockers,Smoking
+P0234,Heart Disease,BA40,Ischemic Heart Disease,"Chest pain, Shortness of breath","Beta-blockers, Aspirin",High cholesterol
+P0235,Heart Disease,BA43,Angina Pectoris,"Chest pain, Irregular heartbeat","Aspirin, Beta-blockers",High cholesterol
+P0236,Heart Disease,BA00,Hypertensive Heart Disease,"Shortness of breath, Chest pain",Beta-blockers,"High cholesterol, Smoking"
+P0237,Heart Disease,BC82,Congestive Heart Failure,"Shortness of breath, Chest pain",Aspirin,High cholesterol
+P0238,Heart Disease,BA00,Hypertensive Heart Disease,"Shortness of breath, Chest pain, Irregular heartbeat",Beta-blockers,High cholesterol
+P0239,Heart Disease,BA43,Angina Pectoris,"Irregular heartbeat, Chest pain","Beta-blockers, Aspirin",Smoking
+P0240,Heart Disease,BA43,Angina Pectoris,"Shortness of breath, Irregular heartbeat",Aspirin,Smoking
+P0241,Heart Disease,BC82,Congestive Heart Failure,"Irregular heartbeat, Chest pain, Shortness of breath","Beta-blockers, Aspirin","High cholesterol, Smoking"
+P0242,Heart Disease,BA40,Ischemic Heart Disease,"Shortness of breath, Irregular heartbeat",Aspirin,"High cholesterol, Smoking"
+P0243,Heart Disease,BA41,Acute Myocardial Infarction,"Chest pain, Irregular heartbeat","Beta-blockers, Aspirin","Smoking, High cholesterol"
+P0244,Heart Disease,BA00,Hypertensive Heart Disease,"Shortness of breath, Chest pain, Irregular heartbeat",Aspirin,High cholesterol
+P0245,Heart Disease,BA40,Ischemic Heart Disease,"Shortness of breath, Irregular heartbeat, Chest pain",Aspirin,"High cholesterol, Smoking"
+P0246,Heart Disease,BA40,Ischemic Heart Disease,"Chest pain, Irregular heartbeat, Shortness of breath","Beta-blockers, Aspirin","High cholesterol, Smoking"
+P0247,Heart Disease,BA41,Acute Myocardial Infarction,"Chest pain, Shortness of breath",Beta-blockers,"High cholesterol, Smoking"
+P0248,Heart Disease,BA40,Ischemic Heart Disease,"Shortness of breath, Irregular heartbeat, Chest pain",Aspirin,Smoking
+P0249,Heart Disease,BA00,Hypertensive Heart Disease,"Chest pain, Shortness of breath",Beta-blockers,Smoking
+P0250,Heart Disease,BA00,Hypertensive Heart Disease,"Irregular heartbeat, Shortness of breath",Aspirin,Smoking
+P0251,Heart Disease,BC82,Congestive Heart Failure,"Chest pain, Irregular heartbeat, Shortness of breath",Beta-blockers,High cholesterol
+P0252,Heart Disease,BA43,Angina Pectoris,"Chest pain, Shortness of breath, Irregular heartbeat",Aspirin,"High cholesterol, Smoking"
+P0253,Heart Disease,BA40,Ischemic Heart Disease,"Chest pain, Irregular heartbeat, Shortness of breath","Aspirin, Beta-blockers","High cholesterol, Smoking"
+P0254,Heart Disease,BC82,Congestive Heart Failure,"Irregular heartbeat, Chest pain, Shortness of breath",Aspirin,"Smoking, High cholesterol"
+P0255,Heart Disease,BA00,Hypertensive Heart Disease,"Shortness of breath, Irregular heartbeat","Aspirin, Beta-blockers","Smoking, High cholesterol"
+P0256,Heart Disease,BA41,Acute Myocardial Infarction,"Irregular heartbeat, Shortness of breath","Beta-blockers, Aspirin","High cholesterol, Smoking"
+P0257,Heart Disease,BC82,Congestive Heart Failure,"Shortness of breath, Chest pain, Irregular heartbeat",Beta-blockers,"High cholesterol, Smoking"
+P0258,Heart Disease,BA00,Hypertensive Heart Disease,"Irregular heartbeat, Shortness of breath, Chest pain",Beta-blockers,High cholesterol
+P0259,Heart Disease,BA41,Acute Myocardial Infarction,"Shortness of breath, Chest pain",Aspirin,"Smoking, High cholesterol"
+P0260,Heart Disease,BA40,Ischemic Heart Disease,"Shortness of breath, Chest pain, Irregular heartbeat",Beta-blockers,"Smoking, High cholesterol"
+P0261,Heart Disease,BC82,Congestive Heart Failure,"Shortness of breath, Irregular heartbeat","Beta-blockers, Aspirin","High cholesterol, Smoking"
+P0262,Heart Disease,BA41,Acute Myocardial Infarction,"Chest pain, Shortness of breath, Irregular heartbeat",Beta-blockers,Smoking
+P0263,Heart Disease,BC82,Congestive Heart Failure,"Shortness of breath, Chest pain, Irregular heartbeat","Aspirin, Beta-blockers","Smoking, High cholesterol"
+P0264,Heart Disease,BA40,Ischemic Heart Disease,"Shortness of breath, Irregular heartbeat, Chest pain","Beta-blockers, Aspirin",Smoking
+P0265,Heart Disease,BC82,Congestive Heart Failure,"Irregular heartbeat, Chest pain, Shortness of breath",Beta-blockers,High cholesterol
+P0266,Heart Disease,BA40,Ischemic Heart Disease,"Chest pain, Irregular heartbeat",Beta-blockers,"Smoking, High cholesterol"
+P0267,Heart Disease,BA40,Ischemic Heart Disease,"Chest pain, Irregular heartbeat","Beta-blockers, Aspirin","High cholesterol, Smoking"
+P0268,Heart Disease,BA43,Angina Pectoris,"Irregular heartbeat, Shortness of breath, Chest pain","Aspirin, Beta-blockers","High cholesterol, Smoking"
+P0269,Heart Disease,BA00,Hypertensive Heart Disease,"Shortness of breath, Chest pain",Aspirin,"Smoking, High cholesterol"
+P0270,Heart Disease,BA43,Angina Pectoris,"Shortness of breath, Chest pain","Beta-blockers, Aspirin",High cholesterol
+P0271,Heart Disease,BA43,Angina Pectoris,"Irregular heartbeat, Chest pain",Aspirin,"High cholesterol, Smoking"
+P0272,Heart Disease,BA00,Hypertensive Heart Disease,"Chest pain, Irregular heartbeat","Beta-blockers, Aspirin","Smoking, High cholesterol"
+P0273,Heart Disease,BC82,Congestive Heart Failure,"Chest pain, Shortness of breath","Aspirin, Beta-blockers",High cholesterol
+P0274,Heart Disease,BA41,Acute Myocardial Infarction,"Irregular heartbeat, Chest pain, Shortness of breath","Aspirin, Beta-blockers",High cholesterol
+P0275,Heart Disease,BC82,Congestive Heart Failure,"Irregular heartbeat, Shortness of breath, Chest pain",Beta-blockers,"Smoking, High cholesterol"
+P0276,Heart Disease,BA43,Angina Pectoris,"Irregular heartbeat, Chest pain","Aspirin, Beta-blockers","Smoking, High cholesterol"
+P0277,Heart Disease,BA43,Angina Pectoris,"Chest pain, Shortness of breath",Aspirin,"Smoking, High cholesterol"
+P0278,Heart Disease,BA43,Angina Pectoris,"Shortness of breath, Irregular heartbeat, Chest pain",Aspirin,Smoking
+P0279,Heart Disease,BC82,Congestive Heart Failure,"Shortness of breath, Irregular heartbeat, Chest pain",Beta-blockers,"Smoking, High cholesterol"
+P0280,Heart Disease,BA40,Ischemic Heart Disease,"Chest pain, Irregular heartbeat",Beta-blockers,"Smoking, High cholesterol"
+P0281,Heart Disease,BA41,Acute Myocardial Infarction,"Irregular heartbeat, Chest pain",Beta-blockers,"Smoking, High cholesterol"
+P0282,Heart Disease,BC82,Congestive Heart Failure,"Shortness of breath, Chest pain, Irregular heartbeat","Beta-blockers, Aspirin","High cholesterol, Smoking"
+P0283,Heart Disease,BA43,Angina Pectoris,"Shortness of breath, Irregular heartbeat",Beta-blockers,Smoking
+P0284,Heart Disease,BC82,Congestive Heart Failure,"Shortness of breath, Irregular heartbeat",Aspirin,"High cholesterol, Smoking"
+P0285,Heart Disease,BA41,Acute Myocardial Infarction,"Irregular heartbeat, Shortness of breath, Chest pain","Aspirin, Beta-blockers",Smoking
+P0286,Heart Disease,BA41,Acute Myocardial Infarction,"Chest pain, Irregular heartbeat, Shortness of breath",Aspirin,"Smoking, High cholesterol"
+P0287,Heart Disease,BA00,Hypertensive Heart Disease,"Shortness of breath, Chest pain, Irregular heartbeat","Beta-blockers, Aspirin",High cholesterol
+P0288,Heart Disease,BC82,Congestive Heart Failure,"Chest pain, Shortness of breath, Irregular heartbeat",Aspirin,"High cholesterol, Smoking"
+P0289,Heart Disease,BA43,Angina Pectoris,"Irregular heartbeat, Shortness of breath, Chest pain",Beta-blockers,High cholesterol
+P0290,Heart Disease,BA43,Angina Pectoris,"Irregular heartbeat, Shortness of breath, Chest pain","Aspirin, Beta-blockers",Smoking
+P0291,Heart Disease,BA40,Ischemic Heart Disease,"Shortness of breath, Irregular heartbeat, Chest pain","Beta-blockers, Aspirin",High cholesterol
+P0292,Heart Disease,BA00,Hypertensive Heart Disease,"Shortness of breath, Chest pain, Irregular heartbeat",Beta-blockers,High cholesterol
+P0293,Heart Disease,BA40,Ischemic Heart Disease,"Shortness of breath, Chest pain","Aspirin, Beta-blockers","Smoking, High cholesterol"
+P0294,Heart Disease,BA43,Angina Pectoris,"Chest pain, Shortness of breath",Beta-blockers,High cholesterol
+P0295,Heart Disease,BC82,Congestive Heart Failure,"Shortness of breath, Chest pain, Irregular heartbeat","Aspirin, Beta-blockers","High cholesterol, Smoking"
+P0296,Heart Disease,BC82,Congestive Heart Failure,"Shortness of breath, Irregular heartbeat, Chest pain","Aspirin, Beta-blockers","High cholesterol, Smoking"
+P0297,Heart Disease,BA00,Hypertensive Heart Disease,"Shortness of breath, Chest pain",Beta-blockers,"High cholesterol, Smoking"
+P0298,Heart Disease,BA43,Angina Pectoris,"Chest pain, Shortness of breath, Irregular heartbeat","Aspirin, Beta-blockers","High cholesterol, Smoking"
+P0299,Heart Disease,BA41,Acute Myocardial Infarction,"Chest pain, Shortness of breath, Irregular heartbeat",Beta-blockers,High cholesterol
+P0300,Heart Disease,BC82,Congestive Heart Failure,"Chest pain, Shortness of breath, Irregular heartbeat",Beta-blockers,"High cholesterol, Smoking"
+P0301,Heart Disease,BA40,Ischemic Heart Disease,"Shortness of breath, Chest pain",Beta-blockers,"High cholesterol, Smoking"
+P0302,Heart Disease,BA40,Ischemic Heart Disease,"Irregular heartbeat, Chest pain",Beta-blockers,Smoking
+P0303,Heart Disease,BA40,Ischemic Heart Disease,"Chest pain, Irregular heartbeat, Shortness of breath",Aspirin,"High cholesterol, Smoking"
+P0304,Heart Disease,BC82,Congestive Heart Failure,"Irregular heartbeat, Chest pain, Shortness of breath","Beta-blockers, Aspirin","High cholesterol, Smoking"
+P0305,Heart Disease,BA41,Acute Myocardial Infarction,"Irregular heartbeat, Shortness of breath, Chest pain",Beta-blockers,"Smoking, High cholesterol"
+P0306,Heart Disease,BA41,Acute Myocardial Infarction,"Chest pain, Irregular heartbeat","Aspirin, Beta-blockers","Smoking, High cholesterol"
+P0307,Heart Disease,BA00,Hypertensive Heart Disease,"Shortness of breath, Chest pain, Irregular heartbeat",Aspirin,High cholesterol
+P0308,Heart Disease,BC82,Congestive Heart Failure,"Irregular heartbeat, Chest pain, Shortness of breath","Beta-blockers, Aspirin","High cholesterol, Smoking"
+P0309,Heart Disease,BA00,Hypertensive Heart Disease,"Shortness of breath, Chest pain","Beta-blockers, Aspirin","Smoking, High cholesterol"
+P0310,Heart Disease,BA43,Angina Pectoris,"Chest pain, Irregular heartbeat, Shortness of breath",Aspirin,High cholesterol
+P0311,Heart Disease,BA41,Acute Myocardial Infarction,"Shortness of breath, Irregular heartbeat","Aspirin, Beta-blockers",High cholesterol
+P0312,Heart Disease,BA40,Ischemic Heart Disease,"Irregular heartbeat, Chest pain",Aspirin,High cholesterol
+P0313,Heart Disease,BA40,Ischemic Heart Disease,"Shortness of breath, Chest pain, Irregular heartbeat","Beta-blockers, Aspirin",High cholesterol
+P0314,Heart Disease,BA41,Acute Myocardial Infarction,"Chest pain, Shortness of breath, Irregular heartbeat",Beta-blockers,"Smoking, High cholesterol"
+P0315,Heart Disease,BA00,Hypertensive Heart Disease,"Shortness of breath, Irregular heartbeat, Chest pain","Beta-blockers, Aspirin",High cholesterol
+P0316,Heart Disease,BA40,Ischemic Heart Disease,"Chest pain, Shortness of breath, Irregular heartbeat","Aspirin, Beta-blockers",High cholesterol
+P0317,Heart Disease,BA40,Ischemic Heart Disease,"Shortness of breath, Chest pain",Beta-blockers,High cholesterol
+P0318,Heart Disease,BA43,Angina Pectoris,"Irregular heartbeat, Shortness of breath",Beta-blockers,Smoking
+P0319,Heart Disease,BC82,Congestive Heart Failure,"Chest pain, Shortness of breath",Beta-blockers,"Smoking, High cholesterol"
+P0320,Heart Disease,BA00,Hypertensive Heart Disease,"Chest pain, Shortness of breath",Beta-blockers,"High cholesterol, Smoking"
+P0321,Heart Disease,BA43,Angina Pectoris,"Shortness of breath, Irregular heartbeat","Beta-blockers, Aspirin",High cholesterol
+P0322,Heart Disease,BA40,Ischemic Heart Disease,"Chest pain, Shortness of breath, Irregular heartbeat",Aspirin,High cholesterol
+P0323,Heart Disease,BC82,Congestive Heart Failure,"Shortness of breath, Chest pain","Beta-blockers, Aspirin",High cholesterol
+P0324,Heart Disease,BA40,Ischemic Heart Disease,"Shortness of breath, Irregular heartbeat","Beta-blockers, Aspirin","High cholesterol, Smoking"
+P0325,Heart Disease,BC82,Congestive Heart Failure,"Chest pain, Shortness of breath","Beta-blockers, Aspirin",Smoking
+P0326,Heart Disease,BA43,Angina Pectoris,"Irregular heartbeat, Shortness of breath","Beta-blockers, Aspirin","High cholesterol, Smoking"
+P0327,Heart Disease,BC82,Congestive Heart Failure,"Shortness of breath, Chest pain, Irregular heartbeat","Beta-blockers, Aspirin",High cholesterol
+P0328,Heart Disease,BA43,Angina Pectoris,"Chest pain, Shortness of breath",Aspirin,"Smoking, High cholesterol"
+P0329,Heart Disease,BA43,Angina Pectoris,"Irregular heartbeat, Chest pain, Shortness of breath","Aspirin, Beta-blockers","High cholesterol, Smoking"
+P0330,Heart Disease,BC82,Congestive Heart Failure,"Shortness of breath, Irregular heartbeat","Aspirin, Beta-blockers",Smoking
+P0331,Heart Disease,BC82,Congestive Heart Failure,"Chest pain, Irregular heartbeat, Shortness of breath","Beta-blockers, Aspirin",Smoking
+P0332,Heart Disease,BA43,Angina Pectoris,"Chest pain, Shortness of breath, Irregular heartbeat","Aspirin, Beta-blockers",High cholesterol
+P0333,Heart Disease,BA40,Ischemic Heart Disease,"Shortness of breath, Irregular heartbeat, Chest pain","Beta-blockers, Aspirin","Smoking, High cholesterol"
+P0334,Heart Disease,BA00,Hypertensive Heart Disease,"Shortness of breath, Irregular heartbeat, Chest pain",Beta-blockers,High cholesterol
+P0335,Heart Disease,BA00,Hypertensive Heart Disease,"Chest pain, Shortness of breath, Irregular heartbeat","Aspirin, Beta-blockers","High cholesterol, Smoking"
+P0336,Heart Disease,BA00,Hypertensive Heart Disease,"Irregular heartbeat, Chest pain, Shortness of breath","Aspirin, Beta-blockers","Smoking, High cholesterol"
+P0337,Heart Disease,BA43,Angina Pectoris,"Chest pain, Irregular heartbeat",Beta-blockers,High cholesterol
+P0338,Heart Disease,BA40,Ischemic Heart Disease,"Irregular heartbeat, Shortness of breath, Chest pain",Beta-blockers,Smoking
+P0339,Heart Disease,BA00,Hypertensive Heart Disease,"Irregular heartbeat, Chest pain","Aspirin, Beta-blockers",Smoking
+P0340,Heart Disease,BC82,Congestive Heart Failure,"Shortness of breath, Irregular heartbeat, Chest pain",Beta-blockers,"Smoking, High cholesterol"
+P0341,Heart Disease,BA40,Ischemic Heart Disease,"Chest pain, Irregular heartbeat, Shortness of breath","Beta-blockers, Aspirin",High cholesterol
+P0342,Heart Disease,BA41,Acute Myocardial Infarction,"Shortness of breath, Chest pain, Irregular heartbeat",Aspirin,Smoking
+P0343,Heart Disease,BA43,Angina Pectoris,"Shortness of breath, Irregular heartbeat",Aspirin,Smoking
+P0344,Heart Disease,BA40,Ischemic Heart Disease,"Chest pain, Shortness of breath","Beta-blockers, Aspirin",High cholesterol
+P0345,Heart Disease,BC82,Congestive Heart Failure,"Shortness of breath, Chest pain","Beta-blockers, Aspirin","Smoking, High cholesterol"
+P0346,Heart Disease,BA00,Hypertensive Heart Disease,"Irregular heartbeat, Chest pain","Aspirin, Beta-blockers","High cholesterol, Smoking"
+P0347,Heart Disease,BA00,Hypertensive Heart Disease,"Shortness of breath, Irregular heartbeat","Beta-blockers, Aspirin",Smoking
+P0348,Heart Disease,BA00,Hypertensive Heart Disease,"Irregular heartbeat, Shortness of breath, Chest pain",Aspirin,High cholesterol
+P0349,Heart Disease,BA40,Ischemic Heart Disease,"Shortness of breath, Chest pain, Irregular heartbeat",Aspirin,"Smoking, High cholesterol"
+P0350,Heart Disease,BA00,Hypertensive Heart Disease,"Shortness of breath, Chest pain",Beta-blockers,High cholesterol
+P0351,Vector-Borne Diseases,1F41,Malaria due to Plasmodium vivax,"Severe headache, High fever","Paracetamol, Antimalarial drugs","Recent travel to tropical regions, Mosquito bites"
+P0352,Vector-Borne Diseases,1F41,Malaria due to Plasmodium vivax,"Severe headache, High fever, Muscle pain",Paracetamol,"Mosquito bites, Recent travel to tropical regions"
+P0353,Vector-Borne Diseases,1F41,Malaria due to Plasmodium vivax,"High fever, Muscle pain, Severe headache","Paracetamol, Antimalarial drugs",Recent travel to tropical regions
+P0354,Vector-Borne Diseases,1F41,Malaria due to Plasmodium vivax,"Severe headache, High fever",Paracetamol,"Mosquito bites, Recent travel to tropical regions"
+P0355,Vector-Borne Diseases,1D20,Dengue Fever,"High fever, Muscle pain, Severe headache","Antimalarial drugs, Paracetamol","Recent travel to tropical regions, Mosquito bites"
+P0356,Vector-Borne Diseases,1D22,Severe Dengue,"High fever, Severe headache","Antimalarial drugs, Paracetamol","Recent travel to tropical regions, Mosquito bites"
+P0357,Vector-Borne Diseases,1D22,Severe Dengue,"High fever, Muscle pain, Severe headache",Antimalarial drugs,"Mosquito bites, Recent travel to tropical regions"
+P0358,Vector-Borne Diseases,1F41,Malaria due to Plasmodium vivax,"Severe headache, High fever","Paracetamol, Antimalarial drugs","Recent travel to tropical regions, Mosquito bites"
+P0359,Vector-Borne Diseases,1D22,Severe Dengue,"Severe headache, High fever",Antimalarial drugs,"Recent travel to tropical regions, Mosquito bites"
+P0360,Vector-Borne Diseases,1F41,Malaria due to Plasmodium vivax,"Muscle pain, Severe headache, High fever",Antimalarial drugs,"Recent travel to tropical regions, Mosquito bites"
+P0361,Vector-Borne Diseases,1F41,Malaria due to Plasmodium vivax,"Severe headache, High fever",Antimalarial drugs,"Mosquito bites, Recent travel to tropical regions"
+P0362,Vector-Borne Diseases,1F41,Malaria due to Plasmodium vivax,"Muscle pain, Severe headache","Antimalarial drugs, Paracetamol",Mosquito bites
+P0363,Vector-Borne Diseases,1F40,Malaria due to Plasmodium falciparum,"Severe headache, High fever","Paracetamol, Antimalarial drugs",Recent travel to tropical regions
+P0364,Vector-Borne Diseases,1D22,Severe Dengue,"Muscle pain, Severe headache, High fever","Paracetamol, Antimalarial drugs",Mosquito bites
+P0365,Vector-Borne Diseases,1F40,Malaria due to Plasmodium falciparum,"Severe headache, High fever, Muscle pain",Antimalarial drugs,Mosquito bites
+P0366,Vector-Borne Diseases,1F41,Malaria due to Plasmodium vivax,"High fever, Muscle pain, Severe headache","Paracetamol, Antimalarial drugs","Mosquito bites, Recent travel to tropical regions"
+P0367,Vector-Borne Diseases,1F40,Malaria due to Plasmodium falciparum,"Muscle pain, Severe headache",Antimalarial drugs,Mosquito bites
+P0368,Vector-Borne Diseases,1D20,Dengue Fever,"Severe headache, High fever, Muscle pain",Paracetamol,Recent travel to tropical regions
+P0369,Vector-Borne Diseases,1D20,Dengue Fever,"High fever, Severe headache, Muscle pain","Paracetamol, Antimalarial drugs","Mosquito bites, Recent travel to tropical regions"
+P0370,Vector-Borne Diseases,1F40,Malaria due to Plasmodium falciparum,"Muscle pain, Severe headache",Paracetamol,"Recent travel to tropical regions, Mosquito bites"
+P0371,Vector-Borne Diseases,1D22,Severe Dengue,"Severe headache, High fever","Paracetamol, Antimalarial drugs","Recent travel to tropical regions, Mosquito bites"
+P0372,Vector-Borne Diseases,1F41,Malaria due to Plasmodium vivax,"Severe headache, Muscle pain, High fever",Antimalarial drugs,"Mosquito bites, Recent travel to tropical regions"
+P0373,Vector-Borne Diseases,1F40,Malaria due to Plasmodium falciparum,"High fever, Severe headache, Muscle pain",Paracetamol,"Mosquito bites, Recent travel to tropical regions"
+P0374,Vector-Borne Diseases,1F41,Malaria due to Plasmodium vivax,"High fever, Severe headache, Muscle pain",Antimalarial drugs,"Recent travel to tropical regions, Mosquito bites"
+P0375,Vector-Borne Diseases,1D20,Dengue Fever,"Severe headache, Muscle pain",Paracetamol,Mosquito bites
+P0376,Vector-Borne Diseases,1D22,Severe Dengue,"High fever, Muscle pain","Paracetamol, Antimalarial drugs","Mosquito bites, Recent travel to tropical regions"
+P0377,Vector-Borne Diseases,1F40,Malaria due to Plasmodium falciparum,"High fever, Muscle pain, Severe headache",Paracetamol,Recent travel to tropical regions
+P0378,Vector-Borne Diseases,1D22,Severe Dengue,"High fever, Severe headache","Paracetamol, Antimalarial drugs",Recent travel to tropical regions
+P0379,Vector-Borne Diseases,1F41,Malaria due to Plasmodium vivax,"Severe headache, High fever, Muscle pain","Paracetamol, Antimalarial drugs",Mosquito bites
+P0380,Vector-Borne Diseases,1F41,Malaria due to Plasmodium vivax,"Severe headache, Muscle pain","Paracetamol, Antimalarial drugs","Mosquito bites, Recent travel to tropical regions"
+P0381,Vector-Borne Diseases,1D22,Severe Dengue,"High fever, Muscle pain, Severe headache",Antimalarial drugs,Recent travel to tropical regions
+P0382,Vector-Borne Diseases,1F40,Malaria due to Plasmodium falciparum,"High fever, Severe headache",Antimalarial drugs,Mosquito bites
+P0383,Vector-Borne Diseases,1D22,Severe Dengue,"Muscle pain, Severe headache","Paracetamol, Antimalarial drugs",Recent travel to tropical regions
+P0384,Vector-Borne Diseases,1F40,Malaria due to Plasmodium falciparum,"High fever, Severe headache","Antimalarial drugs, Paracetamol",Recent travel to tropical regions
+P0385,Vector-Borne Diseases,1F40,Malaria due to Plasmodium falciparum,"Muscle pain, High fever, Severe headache",Antimalarial drugs,"Mosquito bites, Recent travel to tropical regions"
+P0386,Vector-Borne Diseases,1F41,Malaria due to Plasmodium vivax,"Muscle pain, High fever, Severe headache","Paracetamol, Antimalarial drugs","Mosquito bites, Recent travel to tropical regions"
+P0387,Vector-Borne Diseases,1F40,Malaria due to Plasmodium falciparum,"Severe headache, Muscle pain","Paracetamol, Antimalarial drugs",Mosquito bites
+P0388,Vector-Borne Diseases,1F41,Malaria due to Plasmodium vivax,"Severe headache, Muscle pain",Antimalarial drugs,"Mosquito bites, Recent travel to tropical regions"
+P0389,Vector-Borne Diseases,1F40,Malaria due to Plasmodium falciparum,"Muscle pain, Severe headache","Antimalarial drugs, Paracetamol","Recent travel to tropical regions, Mosquito bites"
+P0390,Vector-Borne Diseases,1D22,Severe Dengue,"High fever, Severe headache",Paracetamol,Recent travel to tropical regions
+P0391,Vector-Borne Diseases,1D20,Dengue Fever,"Severe headache, High fever",Antimalarial drugs,Mosquito bites
+P0392,Vector-Borne Diseases,1F40,Malaria due to Plasmodium falciparum,"Muscle pain, High fever",Antimalarial drugs,"Mosquito bites, Recent travel to tropical regions"
+P0393,Vector-Borne Diseases,1F41,Malaria due to Plasmodium vivax,"Muscle pain, Severe headache","Paracetamol, Antimalarial drugs","Mosquito bites, Recent travel to tropical regions"
+P0394,Vector-Borne Diseases,1D20,Dengue Fever,"Muscle pain, Severe headache, High fever",Paracetamol,"Mosquito bites, Recent travel to tropical regions"
+P0395,Vector-Borne Diseases,1F40,Malaria due to Plasmodium falciparum,"Muscle pain, High fever, Severe headache","Antimalarial drugs, Paracetamol",Mosquito bites
+P0396,Vector-Borne Diseases,1D22,Severe Dengue,"Muscle pain, Severe headache, High fever",Antimalarial drugs,"Recent travel to tropical regions, Mosquito bites"
+P0397,Vector-Borne Diseases,1D20,Dengue Fever,"High fever, Muscle pain, Severe headache","Paracetamol, Antimalarial drugs",Mosquito bites
+P0398,Vector-Borne Diseases,1F41,Malaria due to Plasmodium vivax,"Severe headache, Muscle pain, High fever","Paracetamol, Antimalarial drugs",Recent travel to tropical regions
+P0399,Vector-Borne Diseases,1D20,Dengue Fever,"Severe headache, Muscle pain, High fever","Antimalarial drugs, Paracetamol","Recent travel to tropical regions, Mosquito bites"
+P0400,Vector-Borne Diseases,1F41,Malaria due to Plasmodium vivax,"High fever, Muscle pain, Severe headache",Paracetamol,"Recent travel to tropical regions, Mosquito bites"
+P0401,Vector-Borne Diseases,1D22,Severe Dengue,"Muscle pain, High fever, Severe headache",Antimalarial drugs,Mosquito bites
+P0402,Vector-Borne Diseases,1F40,Malaria due to Plasmodium falciparum,"Muscle pain, Severe headache, High fever",Antimalarial drugs,"Mosquito bites, Recent travel to tropical regions"
+P0403,Vector-Borne Diseases,1D22,Severe Dengue,"Severe headache, Muscle pain",Paracetamol,Mosquito bites
+P0404,Vector-Borne Diseases,1D20,Dengue Fever,"High fever, Muscle pain, Severe headache",Paracetamol,Recent travel to tropical regions
+P0405,Vector-Borne Diseases,1D22,Severe Dengue,"High fever, Severe headache",Paracetamol,Recent travel to tropical regions
+P0406,Vector-Borne Diseases,1D22,Severe Dengue,"Severe headache, High fever",Antimalarial drugs,"Recent travel to tropical regions, Mosquito bites"
+P0407,Vector-Borne Diseases,1F40,Malaria due to Plasmodium falciparum,"High fever, Severe headache","Paracetamol, Antimalarial drugs",Recent travel to tropical regions
+P0408,Vector-Borne Diseases,1F40,Malaria due to Plasmodium falciparum,"High fever, Muscle pain, Severe headache","Paracetamol, Antimalarial drugs","Mosquito bites, Recent travel to tropical regions"
+P0409,Vector-Borne Diseases,1D20,Dengue Fever,"Muscle pain, High fever",Antimalarial drugs,"Mosquito bites, Recent travel to tropical regions"
+P0410,Vector-Borne Diseases,1F41,Malaria due to Plasmodium vivax,"High fever, Muscle pain",Antimalarial drugs,Recent travel to tropical regions
+P0411,Vector-Borne Diseases,1F41,Malaria due to Plasmodium vivax,"High fever, Severe headache, Muscle pain","Antimalarial drugs, Paracetamol","Mosquito bites, Recent travel to tropical regions"
+P0412,Vector-Borne Diseases,1D22,Severe Dengue,"Muscle pain, High fever","Antimalarial drugs, Paracetamol","Recent travel to tropical regions, Mosquito bites"
+P0413,Vector-Borne Diseases,1D22,Severe Dengue,"Muscle pain, High fever","Paracetamol, Antimalarial drugs",Recent travel to tropical regions
+P0414,Vector-Borne Diseases,1F41,Malaria due to Plasmodium vivax,"Severe headache, Muscle pain, High fever","Paracetamol, Antimalarial drugs",Recent travel to tropical regions
+P0415,Vector-Borne Diseases,1F41,Malaria due to Plasmodium vivax,"Severe headache, High fever, Muscle pain","Antimalarial drugs, Paracetamol","Recent travel to tropical regions, Mosquito bites"
+P0416,Vector-Borne Diseases,1F41,Malaria due to Plasmodium vivax,"High fever, Muscle pain, Severe headache",Paracetamol,"Mosquito bites, Recent travel to tropical regions"
+P0417,Vector-Borne Diseases,1F41,Malaria due to Plasmodium vivax,"High fever, Severe headache, Muscle pain",Paracetamol,Recent travel to tropical regions
+P0418,Vector-Borne Diseases,1F40,Malaria due to Plasmodium falciparum,"Severe headache, High fever","Antimalarial drugs, Paracetamol",Mosquito bites
+P0419,Vector-Borne Diseases,1D22,Severe Dengue,"High fever, Severe headache, Muscle pain","Antimalarial drugs, Paracetamol","Recent travel to tropical regions, Mosquito bites"
+P0420,Vector-Borne Diseases,1F40,Malaria due to Plasmodium falciparum,"Severe headache, High fever, Muscle pain",Paracetamol,Recent travel to tropical regions
+P0421,Vector-Borne Diseases,1D20,Dengue Fever,"Severe headache, Muscle pain, High fever",Antimalarial drugs,"Mosquito bites, Recent travel to tropical regions"
+P0422,Vector-Borne Diseases,1F40,Malaria due to Plasmodium falciparum,"High fever, Muscle pain, Severe headache",Paracetamol,"Mosquito bites, Recent travel to tropical regions"
+P0423,Vector-Borne Diseases,1F41,Malaria due to Plasmodium vivax,"Severe headache, Muscle pain",Paracetamol,"Mosquito bites, Recent travel to tropical regions"
+P0424,Vector-Borne Diseases,1D20,Dengue Fever,"Muscle pain, High fever, Severe headache","Antimalarial drugs, Paracetamol","Recent travel to tropical regions, Mosquito bites"
+P0425,Vector-Borne Diseases,1F41,Malaria due to Plasmodium vivax,"Muscle pain, High fever","Antimalarial drugs, Paracetamol","Mosquito bites, Recent travel to tropical regions"
+P0426,Vector-Borne Diseases,1F41,Malaria due to Plasmodium vivax,"Muscle pain, High fever",Paracetamol,"Mosquito bites, Recent travel to tropical regions"
+P0427,Vector-Borne Diseases,1F41,Malaria due to Plasmodium vivax,"High fever, Severe headache, Muscle pain",Antimalarial drugs,Recent travel to tropical regions
+P0428,Vector-Borne Diseases,1F41,Malaria due to Plasmodium vivax,"Muscle pain, High fever","Paracetamol, Antimalarial drugs","Recent travel to tropical regions, Mosquito bites"
+P0429,Vector-Borne Diseases,1D22,Severe Dengue,"Muscle pain, High fever, Severe headache",Antimalarial drugs,Mosquito bites
+P0430,Vector-Borne Diseases,1D22,Severe Dengue,"Muscle pain, Severe headache, High fever","Paracetamol, Antimalarial drugs",Mosquito bites
+P0431,Vector-Borne Diseases,1F40,Malaria due to Plasmodium falciparum,"Severe headache, High fever, Muscle pain","Paracetamol, Antimalarial drugs",Mosquito bites
+P0432,Vector-Borne Diseases,1D20,Dengue Fever,"Muscle pain, High fever, Severe headache",Antimalarial drugs,"Mosquito bites, Recent travel to tropical regions"
+P0433,Vector-Borne Diseases,1F40,Malaria due to Plasmodium falciparum,"High fever, Muscle pain","Paracetamol, Antimalarial drugs","Mosquito bites, Recent travel to tropical regions"
+P0434,Vector-Borne Diseases,1F40,Malaria due to Plasmodium falciparum,"Severe headache, Muscle pain",Antimalarial drugs,"Mosquito bites, Recent travel to tropical regions"
+P0435,Vector-Borne Diseases,1D22,Severe Dengue,"Muscle pain, Severe headache, High fever",Antimalarial drugs,"Recent travel to tropical regions, Mosquito bites"
+P0436,Vector-Borne Diseases,1F40,Malaria due to Plasmodium falciparum,"Muscle pain, Severe headache","Paracetamol, Antimalarial drugs","Mosquito bites, Recent travel to tropical regions"
+P0437,Vector-Borne Diseases,1F40,Malaria due to Plasmodium falciparum,"High fever, Muscle pain","Antimalarial drugs, Paracetamol",Mosquito bites
+P0438,Vector-Borne Diseases,1F41,Malaria due to Plasmodium vivax,"Severe headache, High fever, Muscle pain",Antimalarial drugs,"Mosquito bites, Recent travel to tropical regions"
+P0439,Vector-Borne Diseases,1F40,Malaria due to Plasmodium falciparum,"Severe headache, High fever",Antimalarial drugs,Recent travel to tropical regions
+P0440,Vector-Borne Diseases,1F40,Malaria due to Plasmodium falciparum,"High fever, Severe headache, Muscle pain",Antimalarial drugs,Recent travel to tropical regions
+P0441,Vector-Borne Diseases,1D20,Dengue Fever,"Muscle pain, Severe headache, High fever","Paracetamol, Antimalarial drugs",Mosquito bites
+P0442,Vector-Borne Diseases,1D20,Dengue Fever,"Muscle pain, High fever",Paracetamol,Mosquito bites
+P0443,Vector-Borne Diseases,1D20,Dengue Fever,"Muscle pain, Severe headache, High fever",Antimalarial drugs,Mosquito bites
+P0444,Vector-Borne Diseases,1D20,Dengue Fever,"High fever, Muscle pain","Antimalarial drugs, Paracetamol",Recent travel to tropical regions
+P0445,Vector-Borne Diseases,1D20,Dengue Fever,"Severe headache, High fever, Muscle pain",Paracetamol,Mosquito bites
+P0446,Vector-Borne Diseases,1F41,Malaria due to Plasmodium vivax,"Muscle pain, High fever","Antimalarial drugs, Paracetamol","Mosquito bites, Recent travel to tropical regions"
+P0447,Vector-Borne Diseases,1F41,Malaria due to Plasmodium vivax,"Muscle pain, Severe headache","Paracetamol, Antimalarial drugs",Recent travel to tropical regions
+P0448,Vector-Borne Diseases,1F40,Malaria due to Plasmodium falciparum,"High fever, Muscle pain, Severe headache","Paracetamol, Antimalarial drugs","Mosquito bites, Recent travel to tropical regions"
+P0449,Vector-Borne Diseases,1D22,Severe Dengue,"Severe headache, Muscle pain, High fever",Antimalarial drugs,Recent travel to tropical regions
+P0450,Vector-Borne Diseases,1D22,Severe Dengue,"Muscle pain, Severe headache, High fever","Antimalarial drugs, Paracetamol","Mosquito bites, Recent travel to tropical regions"
