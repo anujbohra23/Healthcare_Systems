@@ -1,0 +1,39 @@
+#Data Files
+Lab Report Analysis Model/ProbabilityDistribution_Model/DataProcessing/first_8_percent.csv
+Lab Report Analysis Model/ProbabilityDistribution_Model/DataProcessing/2_5mil.csv
+patient_disease_data_gpt.csv
+Lab Report Analysis Model/patients-and-icdcode/*
+Lab Report Analysis Model/LabReports_Conversation_Processing/TCGA_Reports.csv
+Lab Report Analysis Model/mimic-iii-clinical-database-demo-1.4
+Severity Analysis/Data Files/data.py
+#Model                                  
+Lab Report Analysis Model/ProbabilityDistribution_Model/SavedModel/xgb_model.pkl
+Lab Report Analysis Model/ProbabilityDistribution_Model/SavedModel/xgb_model_hyperparams.pkl
+Lab Report Analysis Model/ProbabilityDistribution_Model/SavedModel/model.pth
+Lab Report Analysis Model/ProbabilityDistribution_Model/SavedModel/simple_net_state_dict.pth
+Lab Report Analysis Model/DualEncoder/DualEncoder/dual_encoder_model.pth
+Severity Analysis/Model Files/mentalbert_weights.pth
+Severity Analysis/Model Files/esi_classifier.pt
+
+#Environment
+.env
+
+#Python Files
+routineCheckup.py
+diabetesDeepSeek.py
+diabetesData.py
+dnegue.py
+labReportDownload.py
+malaria.py
+diabeticData.py
+patient.py
+Severity Analysis/TraigeSystem_WithLabReports_api.py
+Severity Analysis/app.py
+Severity Analysis/data.py
+new_data.py
+
+#Ipynb Files
+Lab Report Analysis Model/ProbabilityDistribution_Model/ModelTraining/final_notebook.ipynb
+Lab Report Analysis Model/ProbabilityDistribution_Model/DataProcessing/d_icd_diagnoses.csv
+Lab Report Analysis Model/ProbabilityDistribution_Model/DataProcessing/d_labitems.csv
+
