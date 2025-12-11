@@ -1,0 +1,16 @@
+{
+  "icd_csv": "/Users/anujbohra/Desktop/Healthcare/TwoTower/Data/icd_codes_8k.csv",
+  "patients_csv": "/Users/anujbohra/Desktop/Healthcare/TwoTower/Data/patients_scaled.csv",
+  "labels_csv": "/Users/anujbohra/Desktop/Healthcare/TwoTower/Data/labels_scaled.csv",
+  "splits_csv": "/Users/anujbohra/Desktop/Healthcare/TwoTower/Data/splits_scaled.csv",
+  "out_dir": "./artifacts",
+  "txt_backbone": "distilbert-base-uncased",
+  "code_backbone": "sentence-transformers/all-MiniLM-L6-v2",
+  "epochs": 1,
+  "batch_size": 32,
+  "max_seq_len": 512,
+  "lr": 2e-05,
+  "device": "mps",
+  "num_workers": 0,
+  "build_faiss": false
+}

@@ -1,0 +1,32 @@
+# Core scientific + data stack
+numpy==1.26.4
+pandas==2.2.3
+scikit-learn==1.5.2
+tqdm==4.66.5
+
+# Deep learning
+torch==2.4.1
+torchvision==0.19.1
+torchaudio==2.4.1
+
+# NLP / transformers
+transformers==4.44.2
+sentence-transformers==3.1.1
+tokenizers==0.19.1
+
+# ANN search and retrieval
+faiss-cpu==1.8.0.post1   # use faiss-gpu if you have CUDA
+
+# Utility & config
+pyyaml==6.0.2
+hydra-core==1.3.2
+
+# Visualization / logging (optional but useful)
+matplotlib==3.9.2
+seaborn==0.13.2
+
+# Repro / export
+joblib==1.4.2
+
+# Optional Jupyter support (for notebooks)
+ipykernel==6.29.5

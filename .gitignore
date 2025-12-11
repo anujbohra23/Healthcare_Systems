@@ -17,6 +17,8 @@ Severity Analysis/Model Files/esi_classifier.pt
 
 #Environment
 .env
+.venv
+venv
 
 #Python Files
 routineCheckup.py
@@ -37,3 +39,19 @@ Lab Report Analysis Model/ProbabilityDistribution_Model/ModelTraining/final_note
 Lab Report Analysis Model/ProbabilityDistribution_Model/DataProcessing/d_icd_diagnoses.csv
 Lab Report Analysis Model/ProbabilityDistribution_Model/DataProcessing/d_labitems.csv
 
+
+#artifacts
+TwoTower/artifacts
+
+
+.env
+artifacts/
+artifacts_clinical/
+artifacts_small/
+src/twotower_icd.egg-info
+artifacts_clinical_mp/
+artifacts_clinical_mp_long/
+
+Data/
+artifacts_v1/
+artifacts_v1/*.pt
